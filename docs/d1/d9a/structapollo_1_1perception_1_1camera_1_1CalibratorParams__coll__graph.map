@@ -1,0 +1,3 @@
+<map id="apollo::perception::camera::CalibratorParams" name="apollo::perception::camera::CalibratorParams">
+<area shape="rect" id="node2" href="$dc/dc6/structapollo_1_1perception_1_1camera_1_1HistogramEstimatorParams.html" title="{apollo::perception\l::camera::HistogramEstimator\lParams\n|+ nr_bins_in_histogram\l+ data_sp\l+ data_ep\l+ step_bin\l+ smooth_kernel\l+ smooth_kernel_width\l+ smooth_kernel_radius\l+ hat_min_allowed\l+ hat_std_allowed\l+ histogram_mass_limit\l+ decay_factor\l|+ HistogramEstimatorParams()\l+ Init()\l+ operator=()\l}" alt="" coords="5,5,208,288"/>
+</map>

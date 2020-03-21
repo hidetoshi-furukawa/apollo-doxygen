@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::BaseObstacleDetector" name="apollo::perception::camera::BaseObstacleDetector">
+<area shape="rect" id="node2" href="$df/de3/classapollo_1_1perception_1_1camera_1_1DummyObstacleDetector.html" title="{apollo::perception\l::camera::DummyObstacleDetector\n||+ DummyObstacleDetector()\l+ ~DummyObstacleDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="5,270,235,421"/>
+<area shape="rect" id="node3" href="$d3/d13/classapollo_1_1perception_1_1camera_1_1YoloObstacleDetector.html" title="{apollo::perception\l::camera::YoloObstacleDetector\n||+ YoloObstacleDetector()\l+ ~YoloObstacleDetector()\l+ Init()\l+ Detect()\l+ Name()\l# LoadInputShape()\l# LoadParam()\l# InitNet()\l# InitYoloBlob()\l# InitFeatureExtractor()\l}" alt="" coords="259,233,469,457"/>
+</map>

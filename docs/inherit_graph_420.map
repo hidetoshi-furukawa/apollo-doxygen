@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/d6c/classapollo_1_1perception_1_1radar_1_1BaseFilter.html" title="apollo::perception\l::radar::BaseFilter" alt="" coords="5,5,132,47"/>
+<area shape="rect" id="node2" href="$d3/d23/classapollo_1_1perception_1_1radar_1_1AdaptiveKalmanFilter.html" title="apollo::perception\l::radar::AdaptiveKalmanFilter" alt="" coords="180,5,371,47"/>
+</map>

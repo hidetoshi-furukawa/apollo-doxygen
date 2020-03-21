@@ -1,0 +1,4 @@
+<map id="apollo::perception::radar::BaseDetector" name="apollo::perception::radar::BaseDetector">
+<area shape="rect" id="node2" href="$dd/dec/classapollo_1_1perception_1_1radar_1_1ContiArsDetector.html" title="{apollo::perception\l::radar::ContiArsDetector\n||+ ContiArsDetector()\l+ ~ContiArsDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="5,204,173,355"/>
+<area shape="rect" id="node3" href="$df/dc7/classapollo_1_1perception_1_1radar_1_1DummyDetector.html" title="{apollo::perception\l::radar::DummyDetector\n||+ DummyDetector()\l+ ~DummyDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="197,204,360,355"/>
+</map>

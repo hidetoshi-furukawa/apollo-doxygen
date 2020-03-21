@@ -1,0 +1,27 @@
+<map id="modules/perception/camera/lib/obstacle/tracker/omt/target.h" name="modules/perception/camera/lib/obstacle/tracker/omt/target.h">
+<area shape="rect" id="node4" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1155,525,1289,567"/>
+<area shape="rect" id="node22" href="$d7/d2f/object__template__manager_8h.html" title="modules/perception\l/camera/common/object\l_template_manager.h" alt="" coords="481,629,643,685"/>
+<area shape="rect" id="node29" href="$d9/df6/camera_2lib_2obstacle_2tracker_2common_2kalman__filter_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/common/kalman\l_filter.h" alt="" coords="639,511,805,581"/>
+<area shape="rect" id="node30" href="$d5/dab/frame__list_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/frame_list.h" alt="" coords="2249,213,2413,269"/>
+<area shape="rect" id="node50" href="$d8/d80/track__object_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/track_object.h" alt="" coords="2589,109,2767,165"/>
+<area shape="rect" id="node8" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1310,637,1489,678"/>
+<area shape="rect" id="node16" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1023,748,1165,789"/>
+<area shape="rect" id="node18" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="1532,748,1667,789"/>
+<area shape="rect" id="node21" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1033,637,1184,678"/>
+<area shape="rect" id="node9" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="2376,748,2511,789"/>
+<area shape="rect" id="node12" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="2348,859,2520,901"/>
+<area shape="rect" id="node14" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1873,859,2008,901"/>
+<area shape="rect" id="node27" href="$d0/df8/mutex_8h.html" title="modules/perception\l/lib/thread/mutex.h" alt="" coords="185,748,320,789"/>
+<area shape="rect" id="node31" href="$d7/d17/camera__frame_8h.html" title="modules/perception\l/camera/common/camera\l_frame.h" alt="" coords="2246,317,2417,373"/>
+<area shape="rect" id="node45" href="$d6/d68/cuda__util_8h.html" title="modules/perception\l/inference/utils/cuda\l_util.h" alt="" coords="1602,317,1741,373"/>
+<area shape="rect" id="node47" href="$d3/d61/inference_2utils_2util_8h.html" title="modules/perception\l/inference/utils/util.h" alt="" coords="3074,637,3213,678"/>
+<area shape="rect" id="node32" href="$d1/dab/hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="2520,637,2668,678"/>
+<area shape="rect" id="node33" href="$d1/d35/lane__struct_8h.html" title="modules/perception\l/base/lane_struct.h" alt="" coords="1743,748,1877,789"/>
+<area shape="rect" id="node34" href="$db/d2b/object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="1816,421,1991,463"/>
+<area shape="rect" id="node36" href="$da/dca/traffic__light_8h.html" title="modules/perception\l/base/traffic_light.h" alt="" coords="2264,637,2399,678"/>
+<area shape="rect" id="node37" href="$dc/df0/data__provider_8h.html" title="modules/perception\l/camera/common/data\l_provider.h" alt="" coords="2715,629,2867,685"/>
+<area shape="rect" id="node35" href="$db/d41/concurrent__object__pool_8h.html" title="modules/perception\l/base/concurrent_object\l_pool.h" alt="" coords="2032,852,2193,908"/>
+<area shape="rect" id="node38" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="3305,748,3440,789"/>
+<area shape="rect" id="node44" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="2852,748,2987,789"/>
+<area shape="rect" id="node43" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="3143,859,3283,901"/>
+</map>

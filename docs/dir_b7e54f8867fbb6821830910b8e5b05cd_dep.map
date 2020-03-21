@@ -1,0 +1,18 @@
+<map id="modules/perception/common" name="modules/perception/common">
+<area shape="rect" id="node2" href="dir_25337aba48ad5f29bb8dc3c477120c73.html" title="geometry" alt="" coords="82,159,158,207"/>
+<area shape="rect" id="node9" href="dir_d02d02be719011d60be6590b147f8f58.html" title="base" alt="" coords="221,255,293,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000004_000002.html" title="7" alt="" coords="207,231,215,245"/>
+<area shape="rect" id="node3" href="dir_02381ac5a55225b65f250a60712ca1d5.html" title="graph" alt="" coords="317,63,389,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000076_000002.html" title="2" alt="" coords="281,235,289,249"/>
+<area shape="rect" id="node4" href="dir_ae794e6ecaa650d6dc652769a4865a25.html" title="i_lib" alt="" coords="565,63,637,111"/>
+<area shape="rect" id="node5" href="dir_a2b75429a16171947d7a45851103e0b2.html" title="image_processing" alt="" coords="414,63,541,111"/>
+<area shape="rect" id="node6" href="dir_622faa0b9856dec9ee16b69c04e4581c.html" title="io" alt="" coords="221,63,293,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000084_000002.html" title="2" alt="" coords="262,229,270,244"/>
+<area shape="rect" id="node7" href="dir_741311bc9dae47d47483d568d36fae75.html" title="point_cloud_processing" alt="" coords="38,63,197,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000005_000004.html" title="1" alt="" coords="123,132,131,147"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000005_000002.html" title="2" alt="" coords="232,227,240,242"/>
+<area shape="rect" id="node8" href="dir_26645a08ece5c07af8987c708b83c257.html" title="sensor_manager" alt="" coords="662,63,781,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000085_000002.html" title="3" alt="" coords="310,257,318,272"/>
+<area shape="rect" id="clust2" href="dir_b7e54f8867fbb6821830910b8e5b05cd.html" alt="" coords="27,52,888,217"/>
+<area shape="rect" id="clust1" href="dir_eae0ee1c8937adf30ca5fa2a95a97c5d.html" title="perception" alt="" coords="16,16,899,228"/>
+</map>

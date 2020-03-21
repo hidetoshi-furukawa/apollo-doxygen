@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::IGetBox" name="apollo::perception::camera::IGetBox">
+<area shape="rect" id="node2" href="$df/d09/classapollo_1_1perception_1_1camera_1_1CropBox.html" title="{apollo::perception\l::camera::CropBox\n||+ CropBox()\l+ Init()\l+ getCropBox()\l}" alt="" coords="5,145,137,267"/>
+<area shape="rect" id="node3" href="$de/d06/classapollo_1_1perception_1_1camera_1_1CropBoxWholeImage.html" title="{apollo::perception\l::camera::CropBoxWholeImage\n||+ getCropBox()\l}" alt="" coords="162,160,367,252"/>
+</map>

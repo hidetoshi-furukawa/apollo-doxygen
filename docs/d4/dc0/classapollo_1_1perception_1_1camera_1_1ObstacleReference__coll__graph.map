@@ -1,0 +1,3 @@
+<map id="apollo::perception::camera::ObstacleReference" name="apollo::perception::camera::ObstacleReference">
+<area shape="rect" id="node2" href="$d9/d72/classapollo_1_1perception_1_1camera_1_1ObjectTemplateManager.html" title="{apollo::perception\l::camera::ObjectTemplateManager\n||+ Init()\l+ VehObjHwlBySearchTemplates()\l+ NrDimPerTmplt()\l+ VehHwl()\l+ LookUpTableMinVolumeIndex()\l+ TypeSpeedLimit()\l+ TypeRefinedByTemplate()\l+ TypeRefinedByRef()\l+ TypeCanBeRef()\l+ MinTemplateHWL()\l+ MidTemplateHWL()\l+ MaxTemplateHWL()\l+ TemplateHWL()\l}" alt="" coords="5,5,232,273"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::perception::lidar::BaseROIFilter" name="apollo::perception::lidar::BaseROIFilter">
+<area shape="rect" id="node2" href="$d7/dac/classapollo_1_1perception_1_1lidar_1_1DummyROIFilter.html" title="{apollo::perception\l::lidar::DummyROIFilter\n||+ DummyROIFilter()\l+ ~DummyROIFilter()\l+ Init()\l+ Filter()\l+ Name()\l}" alt="" coords="5,204,167,355"/>
+<area shape="rect" id="node3" href="$d0/dbb/classapollo_1_1perception_1_1lidar_1_1HdmapROIFilter.html" title="{apollo::perception\l::lidar::HdmapROIFilter\n||+ HdmapROIFilter()\l+ ~HdmapROIFilter()\l+ Init()\l+ Name()\l+ Filter()\l}" alt="" coords="191,204,349,355"/>
+<area shape="rect" id="node4" href="$d7/dd8/classapollo_1_1perception_1_1lidar_1_1ROIServiceFilter.html" title="{apollo::perception\l::lidar::ROIServiceFilter\n||+ ROIServiceFilter()\l+ ~ROIServiceFilter()\l+ Init()\l+ Name()\l+ Filter()\l}" alt="" coords="373,204,532,355"/>
+</map>

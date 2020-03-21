@@ -1,0 +1,6 @@
+<map id="apollo::perception::camera::BaseFeatureExtractor" name="apollo::perception::camera::BaseFeatureExtractor">
+<area shape="rect" id="node2" href="$d0/db1/classapollo_1_1perception_1_1camera_1_1DummyFeatureExtractor.html" title="{apollo::perception\l::camera::DummyFeatureExtractor\n||+ DummyFeatureExtractor()\l+ ~DummyFeatureExtractor()\l+ Init()\l+ Extract()\l+ Name()\l}" alt="" coords="5,351,229,501"/>
+<area shape="rect" id="node3" href="$d1/d54/classapollo_1_1perception_1_1camera_1_1ExternalFeatureExtractor.html" title="{apollo::perception\l::camera::ExternalFeatureExtractor\n||+ Init()\l+ Extract()\l+ Name()\l}" alt="" coords="253,365,480,487"/>
+<area shape="rect" id="node4" href="$d2/dcf/classapollo_1_1perception_1_1camera_1_1ProjectFeature.html" title="{apollo::perception\l::camera::ProjectFeature\n||+ Init()\l+ Extract()\l+ Name()\l}" alt="" coords="505,365,671,487"/>
+<area shape="rect" id="node5" href="$da/d37/classapollo_1_1perception_1_1camera_1_1TrackingFeatureExtractor.html" title="{apollo::perception\l::camera::TrackingFeatureExtractor\n|# roi_poolings_\l# norm_\l# input_height_\l# input_width_\l# feat_width_\l# feat_height_\l|+ TrackingFeatureExtractor()\l+ ~TrackingFeatureExtractor()\l+ Init()\l+ Extract()\l+ Name()\l# init_roipooling()\l}" alt="" coords="695,307,923,545"/>
+</map>

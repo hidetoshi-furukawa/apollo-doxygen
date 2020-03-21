@@ -1,0 +1,8 @@
+<map id="modules/perception/camera/lib/interface/base_camera_perception.h" name="modules/perception/camera/lib/interface/base_camera_perception.h">
+<area shape="rect" id="node2" href="$d2/d1d/lane__camera__perception_8h.html" title="modules/perception\l/camera/app/lane_camera\l_perception.h" alt="" coords="5,109,177,165"/>
+<area shape="rect" id="node3" href="$d3/d4e/lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="21,213,189,269"/>
+<area shape="rect" id="node4" href="$d6/dc3/obstacle__camera__perception_8h.html" title="modules/perception\l/camera/app/obstacle\l_camera_perception.h" alt="" coords="253,109,404,165"/>
+<area shape="rect" id="node5" href="$d5/de0/fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="224,213,439,269"/>
+<area shape="rect" id="node6" href="$dd/d90/traffic__light__camera__perception_8h.html" title="modules/perception\l/camera/app/traffic\l_light_camera_perception.h" alt="" coords="479,109,661,165"/>
+<area shape="rect" id="node7" href="$d7/db2/trafficlights__perception__component_8h.html" title="modules/perception\l/onboard/component/trafficlights\l_perception_component.h" alt="" coords="466,213,674,269"/>
+</map>

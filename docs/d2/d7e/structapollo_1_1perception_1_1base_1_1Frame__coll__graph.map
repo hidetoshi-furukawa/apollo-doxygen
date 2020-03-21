@@ -1,0 +1,7 @@
+<map id="apollo::perception::base::Frame" name="apollo::perception::base::Frame">
+<area shape="rect" id="node2" href="$d2/d6d/structapollo_1_1perception_1_1base_1_1LidarFrameSupplement.html" title="{apollo::perception\l::base::LidarFrameSupplement\n|+ on_use\l+ cloud_ptr\l|+ Reset()\l}" alt="" coords="5,20,205,127"/>
+<area shape="rect" id="node3" href="$db/ddb/structapollo_1_1perception_1_1base_1_1SensorInfo.html" title="{apollo::perception\l::base::SensorInfo\n|+ name\l+ type\l+ orientation\l+ frame_id\l|+ Reset()\l}" alt="" coords="229,5,358,141"/>
+<area shape="rect" id="node4" href="$de/d60/structapollo_1_1perception_1_1base_1_1CameraFrameSupplement.html" title="{apollo::perception\l::base::CameraFrameSupplement\n|+ on_use\l+ image_ptr\l+ image_blob\l|+ Reset()\l}" alt="" coords="383,13,601,134"/>
+<area shape="rect" id="node5" href="$de/d7c/structapollo_1_1perception_1_1base_1_1UltrasonicFrameSupplement.html" title="{apollo::perception\l::base::UltrasonicFrameSupplement\n|+ on_use\l+ impending_collision\l_edges_ptr\l|+ Reset()\l}" alt="" coords="626,13,857,134"/>
+<area shape="rect" id="node6" href="$dd/dba/structapollo_1_1perception_1_1base_1_1RadarFrameSupplement.html" title="{apollo::perception\l::base::RadarFrameSupplement\n|+ on_use\l|+ Reset()\l}" alt="" coords="881,27,1087,119"/>
+</map>

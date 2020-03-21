@@ -1,0 +1,3 @@
+<map id="apollo::perception::base::LaneBoundary" name="apollo::perception::base::LaneBoundary">
+<area shape="rect" id="node2" href="$d0/d09/classapollo_1_1perception_1_1base_1_1PointCloud.html" title="{apollo::perception\l::base::PointCloud\&lt;\l apollo::perception::\lbase::Point \&gt;\n|# points_\l# width_\l# height_\l# sensor_to_world_pose_\l# timestamp_\l|+ PointCloud()\l+ PointCloud()\l+ PointCloud()\l+ PointCloud()\l+ ~PointCloud()\l+ at()\l+ at()\l+ at()\l+ at()\l+ operator()()\land 36 more...\l}" alt="" coords="5,5,176,332"/>
+</map>

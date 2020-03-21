@@ -1,0 +1,5 @@
+<map id="apollo::perception::base::TrafficLight" name="apollo::perception::base::TrafficLight">
+<area shape="rect" id="node2" href="$d8/d3b/structapollo_1_1perception_1_1base_1_1LightRegion.html" title="{apollo::perception\l::base::LightRegion\n|+ outside_image\l+ debug_roi\l+ debug_roi_detect_scores\l+ is_detected\l+ is_selected\l+ detect_class_id\l+ points\l+ detect_score\l|}" alt="" coords="5,336,184,531"/>
+<area shape="rect" id="node3" href="$d9/d84/structapollo_1_1perception_1_1base_1_1Rect.html" title="{apollo::perception\l::base::Rect\&lt; int \&gt;\n|+ x\l+ y\l+ width\l+ height\l|+ Rect()\l+ Rect()\l+ Rect()\l+ operator=()\l+ Center()\l+ SetCenter()\l+ Area()\l+ ToStr()\l}" alt="" coords="29,5,161,244"/>
+<area shape="rect" id="node4" href="$db/da5/structapollo_1_1perception_1_1base_1_1LightStatus.html" title="{apollo::perception\l::base::LightStatus\n|+ color\l+ confidence\l+ tracking_time\l+ blink\l|}" alt="" coords="209,365,341,501"/>
+</map>

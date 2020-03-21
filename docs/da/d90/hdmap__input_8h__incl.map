@@ -1,0 +1,6 @@
+<map id="modules/perception/map/hdmap/hdmap_input.h" name="modules/perception/map/hdmap/hdmap_input.h">
+<area shape="rect" id="node8" href="$d1/dab/hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="357,95,505,136"/>
+<area shape="rect" id="node15" href="$d0/df8/mutex_8h.html" title="modules/perception\l/lib/thread/mutex.h" alt="" coords="1357,95,1492,136"/>
+<area shape="rect" id="node9" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="292,184,426,225"/>
+<area shape="rect" id="node13" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="292,273,426,315"/>
+</map>

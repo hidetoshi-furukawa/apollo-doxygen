@@ -1,0 +1,4 @@
+<map id="apollo::perception::benchmark::DistanceBasedRangeInterface" name="apollo::perception::benchmark::DistanceBasedRangeInterface">
+<area shape="rect" id="node3" href="$dc/d6f/classapollo_1_1perception_1_1benchmark_1_1RoiDistanceBasedRangeInterface.html" title="{apollo::perception\l::benchmark::RoiDistanceBased\lRangeInterface\n|# _s_ignore_roi_outside\l|+ get_index()\l+ get_dim()\l+ get_element()\l+ set_ignore_roi_outside()\l}" alt="" coords="11,388,221,539"/>
+<area shape="rect" id="node2" href="$df/dd9/classapollo_1_1perception_1_1benchmark_1_1BaseRangeInterface.html" title="{apollo::perception\l::benchmark::BaseRangeInterface\n||+ get_index()\l+ get_dim()\l+ get_element()\l}" alt="" coords="5,5,227,127"/>
+</map>

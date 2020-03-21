@@ -1,0 +1,7 @@
+<map id="modules/perception/camera/tools/lane_detection/lane_common.h" name="modules/perception/camera/tools/lane_detection/lane_common.h">
+<area shape="rect" id="node5" href="$d1/d35/lane__struct_8h.html" title="modules/perception\l/base/lane_struct.h" alt="" coords="25,213,160,255"/>
+<area shape="rect" id="node6" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="287,303,421,344"/>
+<area shape="rect" id="node10" href="$dc/d59/common__functions_8h.html" title="modules/perception\l/camera/lib/lane/common\l/common_functions.h" alt="" coords="337,109,505,165"/>
+<area shape="rect" id="node13" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="663,213,797,255"/>
+<area shape="rect" id="node16" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="637,303,809,344"/>
+</map>

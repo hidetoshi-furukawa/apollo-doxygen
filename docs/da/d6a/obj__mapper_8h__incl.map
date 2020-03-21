@@ -1,0 +1,12 @@
+<map id="modules/perception/camera/lib/obstacle/transformer/multicue/obj_mapper.h" name="modules/perception/camera/lib/obstacle/transformer/multicue/obj_mapper.h">
+<area shape="rect" id="node6" href="$d7/d2f/object__template__manager_8h.html" title="modules/perception\l/camera/common/object\l_template_manager.h" alt="" coords="527,124,690,180"/>
+<area shape="rect" id="node14" href="$d9/df9/twod__threed__util_8h.html" title="modules/perception\l/camera/common/twod\l_threed_util.h" alt="" coords="1257,124,1411,180"/>
+<area shape="rect" id="node10" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="68,243,211,284"/>
+<area shape="rect" id="node12" href="$d0/df8/mutex_8h.html" title="modules/perception\l/lib/thread/mutex.h" alt="" coords="789,243,924,284"/>
+<area shape="rect" id="node17" href="$dd/d15/i__constant_8h.html" title="modules/perception\l/common/i_lib/core/i\l_constant.h" alt="" coords="1649,659,1787,715"/>
+<area shape="rect" id="node18" href="$da/d11/i__line_8h.html" title="modules/perception\l/common/i_lib/geometry\l/i_line.h" alt="" coords="1397,235,1559,291"/>
+<area shape="rect" id="node23" href="$d5/db3/geometry_2i__util_8h.html" title="modules/perception\l/common/i_lib/geometry\l/i_util.h" alt="" coords="1347,347,1508,403"/>
+<area shape="rect" id="node19" href="$de/d4d/i__sort_8h.html" title="modules/perception\l/common/i_lib/algorithm\l/i_sort.h" alt="" coords="1521,451,1681,507"/>
+<area shape="rect" id="node20" href="$d4/da8/i__basic_8h.html" title="modules/perception\l/common/i_lib/core/i\l_basic.h" alt="" coords="1525,555,1663,611"/>
+<area shape="rect" id="node25" href="$da/d57/i__blas_8h.html" title="modules/perception\l/common/i_lib/core/i\l_blas.h" alt="" coords="1358,451,1497,507"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/df2/classapollo_1_1perception_1_1lidar_1_1BaseGroundDetector.html" title="apollo::perception\l::lidar::BaseGroundDetector" alt="" coords="5,71,189,112"/>
+<area shape="rect" id="node2" href="$d9/deb/classapollo_1_1perception_1_1lidar_1_1DummyGroundDetector.html" title="apollo::perception\l::lidar::DummyGroundDetector" alt="" coords="237,5,437,47"/>
+<area shape="rect" id="node3" href="$d8/de8/classapollo_1_1perception_1_1lidar_1_1GroundServiceDetector.html" title="apollo::perception\l::lidar::GroundServiceDetector" alt="" coords="238,71,437,112"/>
+<area shape="rect" id="node4" href="$de/db3/classapollo_1_1perception_1_1lidar_1_1SpatioTemporalGroundDetector.html" title="apollo::perception\l::lidar::SpatioTemporalGround\lDetector" alt="" coords="240,137,435,193"/>
+</map>

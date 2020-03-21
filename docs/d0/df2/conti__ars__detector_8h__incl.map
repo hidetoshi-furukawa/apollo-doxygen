@@ -1,0 +1,27 @@
+<map id="modules/perception/radar/lib/detector/conti_ars_detector/conti_ars_detector.h" name="modules/perception/radar/lib/detector/conti_ars_detector/conti_ars_detector.h">
+<area shape="rect" id="node4" href="$d7/df6/radar__util_8h.html" title="modules/perception\l/radar/common/radar\l_util.h" alt="" coords="1805,124,1947,180"/>
+<area shape="rect" id="node24" href="$dd/d0f/base__detector_8h.html" title="modules/perception\l/radar/lib/interface\l/base_detector.h" alt="" coords="2250,124,2385,180"/>
+<area shape="rect" id="node5" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1187,429,1322,470"/>
+<area shape="rect" id="node10" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1101,525,1280,567"/>
+<area shape="rect" id="node18" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="2035,622,2178,663"/>
+<area shape="rect" id="node20" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="681,622,815,663"/>
+<area shape="rect" id="node23" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="875,525,1026,567"/>
+<area shape="rect" id="node11" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1145,622,1279,663"/>
+<area shape="rect" id="node14" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="705,726,877,767"/>
+<area shape="rect" id="node16" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="546,726,681,767"/>
+<area shape="rect" id="node27" href="$de/d4c/base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="1655,228,1790,269"/>
+<area shape="rect" id="node42" href="$d8/d53/roi__filter_8h.html" title="modules/perception\l/common/geometry/roi\l_filter.h" alt="" coords="920,317,1072,373"/>
+<area shape="rect" id="node44" href="$d0/d8b/config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/config_manager.h" alt="" coords="2597,615,2731,671"/>
+<area shape="rect" id="node48" href="$da/df0/registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="2406,622,2573,663"/>
+<area shape="rect" id="node49" href="$de/df1/radar_2common_2types_8h.html" title="modules/perception\l/radar/common/types.h" alt="" coords="2123,228,2279,269"/>
+<area shape="rect" id="node28" href="$db/df4/frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="1572,325,1748,366"/>
+<area shape="rect" id="node41" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="2136,325,2280,366"/>
+<area shape="rect" id="node29" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="1551,622,1686,663"/>
+<area shape="rect" id="node38" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="1529,429,1663,470"/>
+<area shape="rect" id="node40" href="$d1/d15/impending__collision__edge_8h.html" title="modules/perception\l/base/impending_collision\l_edge.h" alt="" coords="1739,421,1909,477"/>
+<area shape="rect" id="node34" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="2483,726,2623,767"/>
+<area shape="rect" id="node35" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="2483,823,2618,864"/>
+<area shape="rect" id="node39" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="1367,525,1502,567"/>
+<area shape="rect" id="node43" href="$d1/dab/hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="457,525,605,567"/>
+<area shape="rect" id="node45" href="$d0/df8/mutex_8h.html" title="modules/perception\l/lib/thread/mutex.h" alt="" coords="2987,726,3122,767"/>
+</map>

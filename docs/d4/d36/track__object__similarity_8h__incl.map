@@ -1,0 +1,17 @@
+<map id="modules/perception/fusion/lib/data_association/hm_data_association/track_object_similarity.h" name="modules/perception/fusion/lib/data_association/hm_data_association/track_object_similarity.h">
+<area shape="rect" id="node3" href="$db/d03/sensor__object_8h.html" title="modules/perception\l/fusion/base/sensor\l_object.h" alt="" coords="1139,243,1275,299"/>
+<area shape="rect" id="node26" href="$d5/d3e/chi__squared__cdf__1__0_80500__0_8999900_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/chi\l_squared_cdf_1_0.0500_0.999900.h" alt="" coords="1757,124,1987,195"/>
+<area shape="rect" id="node27" href="$da/daf/chi__squared__cdf__2__0_80500__0_8999900_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/chi\l_squared_cdf_2_0.0500_0.999900.h" alt="" coords="2011,124,2242,195"/>
+<area shape="rect" id="node28" href="$de/dc1/probabilities_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/probabilities.h" alt="" coords="446,540,679,596"/>
+<area shape="rect" id="node29" href="$dc/d5d/projection__cache_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/projection\l_cache.h" alt="" coords="1443,124,1653,195"/>
+<area shape="rect" id="node8" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="927,354,1062,395"/>
+<area shape="rect" id="node24" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1335,451,1479,492"/>
+<area shape="rect" id="node25" href="$d4/df3/base__forward__declaration_8h.html" title="modules/perception\l/fusion/base/base_forward\l_declaration.h" alt="" coords="281,347,455,403"/>
+<area shape="rect" id="node10" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="753,451,932,492"/>
+<area shape="rect" id="node18" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1255,547,1398,589"/>
+<area shape="rect" id="node20" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="287,547,422,589"/>
+<area shape="rect" id="node23" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1109,451,1259,492"/>
+<area shape="rect" id="node11" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="703,547,838,589"/>
+<area shape="rect" id="node14" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="823,644,995,685"/>
+<area shape="rect" id="node16" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="463,644,598,685"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="modules/perception/lidar/lib/roi_filter/roi_service_filter/roi_service_filter.h" name="modules/perception/lidar/lib/roi_filter/roi_service_filter/roi_service_filter.h">
+<area shape="rect" id="node3" href="$d9/d94/lidar_2lib_2interface_2base__roi__filter_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_roi_filter.h" alt="" coords="1764,124,1899,180"/>
+<area shape="rect" id="node49" href="$dd/dc8/roi__service_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/roi_service/roi_service.h" alt="" coords="797,600,964,656"/>
+<area shape="rect" id="node5" href="$da/df0/registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="1485,815,1652,857"/>
+<area shape="rect" id="node9" href="$dc/d1f/lidar__frame_8h.html" title="modules/perception\l/lidar/common/lidar\l_frame.h" alt="" coords="1084,228,1219,284"/>
+<area shape="rect" id="node12" href="$d1/dab/hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="736,711,884,753"/>
+<area shape="rect" id="node13" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="933,815,1068,857"/>
+<area shape="rect" id="node18" href="$db/d2b/object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="1064,332,1239,373"/>
+<area shape="rect" id="node48" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="2141,511,2285,552"/>
+<area shape="rect" id="node16" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1291,912,1425,953"/>
+<area shape="rect" id="node19" href="$db/d41/concurrent__object__pool_8h.html" title="modules/perception\l/base/concurrent_object\l_pool.h" alt="" coords="232,808,393,864"/>
+<area shape="rect" id="node25" href="$de/d4c/base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="1797,421,1932,463"/>
+<area shape="rect" id="node43" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1731,607,1865,649"/>
+<area shape="rect" id="node24" href="$d6/db3/object__pool_8h.html" title="modules/perception\l/base/object_pool.h" alt="" coords="107,912,241,953"/>
+<area shape="rect" id="node26" href="$db/df4/frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="1941,511,2117,552"/>
+<area shape="rect" id="node46" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1829,815,1972,857"/>
+<area shape="rect" id="node27" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="2907,815,3041,857"/>
+<area shape="rect" id="node35" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="2136,607,2271,649"/>
+<area shape="rect" id="node41" href="$d1/d15/impending__collision__edge_8h.html" title="modules/perception\l/base/impending_collision\l_edge.h" alt="" coords="1941,600,2111,656"/>
+<area shape="rect" id="node32" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="3560,912,3700,953"/>
+<area shape="rect" id="node33" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="3589,1001,3724,1043"/>
+<area shape="rect" id="node36" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="2549,711,2684,753"/>
+<area shape="rect" id="node37" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="2443,815,2577,857"/>
+<area shape="rect" id="node40" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="2137,912,2309,953"/>
+<area shape="rect" id="node45" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1778,711,1957,753"/>
+<area shape="rect" id="node47" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1264,711,1415,753"/>
+<area shape="rect" id="node50" href="$d5/d47/scene__service_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/scene_service.h" alt="" coords="1541,704,1703,760"/>
+</map>

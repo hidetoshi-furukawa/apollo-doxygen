@@ -1,0 +1,4 @@
+<map id="apollo::perception::lidar::GnnBipartiteGraphMatcher" name="apollo::perception::lidar::GnnBipartiteGraphMatcher">
+<area shape="rect" id="node2" href="$dd/d34/classapollo_1_1perception_1_1lidar_1_1BaseBipartiteGraphMatcher.html" title="{apollo::perception\l::lidar::BaseBipartiteGraph\lMatcher\n|# max_match_distance_\l|+ BaseBipartiteGraphMatcher()\l+ ~BaseBipartiteGraphMatcher()\l+ Match()\l+ Name()\l+ cost_matrix()\l}" alt="" coords="5,277,216,443"/>
+<area shape="rect" id="node3" href="$d4/db1/classapollo_1_1perception_1_1common_1_1SecureMat.html" title="{apollo::perception\l::common::SecureMat\l\&lt; float \&gt;\n||+ SecureMat()\l+ height()\l+ width()\l+ Reserve()\l+ Resize()\l+ ToString()\l+ operator()()\l+ operator()()\l}" alt="" coords="35,5,186,215"/>
+</map>

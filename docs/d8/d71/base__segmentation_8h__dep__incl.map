@@ -1,0 +1,7 @@
+<map id="modules/perception/lidar/lib/interface/base_segmentation.h" name="modules/perception/lidar/lib/interface/base_segmentation.h">
+<area shape="rect" id="node2" href="$d3/d4d/lidar__obstacle__segmentation_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_segmentation.h" alt="" coords="37,109,196,165"/>
+<area shape="rect" id="node4" href="$d9/d95/dummy__segmentation_8h.html" title="modules/perception\l/lidar/lib/dummy/dummy\l_segmentation.h" alt="" coords="220,109,381,165"/>
+<area shape="rect" id="node5" href="$d8/db2/cnn__segmentation_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/cnn_segmentation.h" alt="" coords="406,109,595,165"/>
+<area shape="rect" id="node6" href="$d0/dea/ncut__segmentation_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/ncut/ncut_segmentation.h" alt="" coords="619,109,795,165"/>
+<area shape="rect" id="node3" href="$d0/d3d/segmentation__component_8h.html" title="modules/perception\l/onboard/component/segmentation\l_component.h" alt="" coords="5,213,228,269"/>
+</map>

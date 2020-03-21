@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::BaseSimilar" name="apollo::perception::camera::BaseSimilar">
+<area shape="rect" id="node2" href="$db/dd5/classapollo_1_1perception_1_1camera_1_1CosineSimilar.html" title="{apollo::perception\l::camera::CosineSimilar\n||+ CosineSimilar()\l+ Calc()\l}" alt="" coords="5,145,168,252"/>
+<area shape="rect" id="node3" href="$d6/d9f/classapollo_1_1perception_1_1camera_1_1GPUSimilar.html" title="{apollo::perception\l::camera::GPUSimilar\n||+ Calc()\l}" alt="" coords="193,153,343,245"/>
+</map>

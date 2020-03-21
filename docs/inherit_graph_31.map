@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d1/d0d/classapollo_1_1perception_1_1base_1_1MultiDeviceTest.html" title="apollo::perception\l::base::MultiDeviceTest\l\&lt; TypeParam \&gt;" alt="" coords="108,5,269,61"/>
+<area shape="rect" id="node3" href="$d1/d0d/classapollo_1_1perception_1_1base_1_1MultiDeviceTest.html" title="apollo::perception\l::base::MultiDeviceTest\l\&lt; CPUDevice\&lt; Dtype \&gt; \&gt;" alt="" coords="101,85,276,141"/>
+<area shape="rect" id="node5" href="$d1/d0d/classapollo_1_1perception_1_1base_1_1MultiDeviceTest.html" title="apollo::perception\l::base::MultiDeviceTest\l\&lt; GPUDevice\&lt; Dtype \&gt; \&gt;" alt="" coords="101,165,276,221"/>
+<area shape="rect" id="node4" href="$da/d5a/classapollo_1_1perception_1_1base_1_1CPUDeviceTest.html" title="apollo::perception\l::base::CPUDeviceTest\l\&lt; Dtype \&gt;" alt="" coords="324,85,487,141"/>
+<area shape="rect" id="node6" href="$d7/d52/classapollo_1_1perception_1_1base_1_1GPUDeviceTest.html" title="apollo::perception\l::base::GPUDeviceTest\l\&lt; Dtype \&gt;" alt="" coords="324,165,487,221"/>
+</map>

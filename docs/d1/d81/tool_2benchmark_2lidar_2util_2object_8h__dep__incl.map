@@ -1,0 +1,12 @@
+<map id="modules/perception/tool/benchmark/lidar/util/object.h" name="modules/perception/tool/benchmark/lidar/util/object.h">
+<area shape="rect" id="node2" href="$de/de8/tool_2benchmark_2lidar_2base_2frame_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/base/frame.h" alt="" coords="5,213,148,269"/>
+<area shape="rect" id="node5" href="$d5/de6/sequence__maintainer_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/base/sequence_maintainer.h" alt="" coords="351,213,543,269"/>
+<area shape="rect" id="node7" href="$d2/d9b/position__metric_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/position_metric.h" alt="" coords="159,109,312,165"/>
+<area shape="rect" id="node8" href="$df/d55/meta__statistics_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/meta_statistics.h" alt="" coords="173,213,327,269"/>
+<area shape="rect" id="node9" href="$de/d92/tool_2benchmark_2lidar_2util_2io__util_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/io_util.h" alt="" coords="439,109,581,165"/>
+<area shape="rect" id="node10" href="$d9/da9/object__util_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/object_util.h" alt="" coords="605,109,748,165"/>
+<area shape="rect" id="node11" href="$d1/db5/visibility_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/visibility.h" alt="" coords="772,109,915,165"/>
+<area shape="rect" id="node3" href="$d3/d2a/frame__statistics_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/frame_statistics.h" alt="" coords="160,317,319,373"/>
+<area shape="rect" id="node4" href="$dd/d7c/detection__evaluation_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/detection_evaluation.h" alt="" coords="265,421,421,477"/>
+<area shape="rect" id="node6" href="$d1/d93/sequence__self__statistics_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/sequence_self_statistics.h" alt="" coords="343,317,552,373"/>
+</map>

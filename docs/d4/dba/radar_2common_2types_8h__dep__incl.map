@@ -1,0 +1,15 @@
+<map id="modules/perception/radar/common/types.h" name="modules/perception/radar/common/types.h">
+<area shape="rect" id="node2" href="$dd/d0f/base__detector_8h.html" title="modules/perception\l/radar/lib/interface\l/base_detector.h" alt="" coords="389,95,524,151"/>
+<area shape="rect" id="node8" href="$db/d37/base__preprocessor_8h.html" title="modules/perception\l/radar/lib/interface\l/base_preprocessor.h" alt="" coords="210,95,357,151"/>
+<area shape="rect" id="node10" href="$d2/d1f/radar__track_8h.html" title="modules/perception\l/radar/lib/tracker/common\l/radar_track.h" alt="" coords="682,95,853,151"/>
+<area shape="rect" id="node3" href="$d2/d6d/base__radar__obstacle__perception_8h.html" title="modules/perception\l/radar/lib/interface\l/base_radar_obstacle\l_perception.h" alt="" coords="202,199,349,269"/>
+<area shape="rect" id="node6" href="$d4/dc4/conti__ars__detector_8h.html" title="modules/perception\l/radar/lib/detector\l/conti_ars_detector/conti\l_ars_detector.h" alt="" coords="565,199,730,269"/>
+<area shape="rect" id="node7" href="$d4/db6/radar_2lib_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/radar/lib/dummy/dummy\l_algorithms.h" alt="" coords="373,206,540,262"/>
+<area shape="rect" id="node4" href="$dd/d6b/radar__obstacle__perception_8h.html" title="modules/perception\l/radar/app/radar_obstacle\l_perception.h" alt="" coords="191,317,360,373"/>
+<area shape="rect" id="node5" href="$d4/da1/radar__detection__component_8h.html" title="modules/perception\l/onboard/component/radar\l_detection_component.h" alt="" coords="189,429,362,485"/>
+<area shape="rect" id="node9" href="$da/d0b/conti__ars__preprocessor_8h.html" title="modules/perception\l/radar/lib/preprocessor\l/conti_ars_preprocessor\l/conti_ars_preprocessor.h" alt="" coords="5,199,177,269"/>
+<area shape="rect" id="node11" href="$dc/da2/base__matcher_8h.html" title="modules/perception\l/radar/lib/interface\l/base_matcher.h" alt="" coords="849,206,984,262"/>
+<area shape="rect" id="node14" href="$d4/df2/radar__track__manager_8h.html" title="modules/perception\l/radar/lib/tracker/common\l/radar_track_manager.h" alt="" coords="659,317,830,373"/>
+<area shape="rect" id="node12" href="$dc/dc8/hm__matcher_8h.html" title="modules/perception\l/radar/lib/tracker/matcher\l/hm_matcher.h" alt="" coords="855,317,1021,373"/>
+<area shape="rect" id="node13" href="$de/d92/conti__ars__tracker_8h.html" title="modules/perception\l/radar/lib/tracker/conti\l_ars_tracker/conti_ars\l_tracker.h" alt="" coords="765,421,916,492"/>
+</map>

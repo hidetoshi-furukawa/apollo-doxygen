@@ -1,0 +1,4 @@
+<map id="apollo::perception::lidar::BaseObjectFilter" name="apollo::perception::lidar::BaseObjectFilter">
+<area shape="rect" id="node2" href="$dc/d99/classapollo_1_1perception_1_1lidar_1_1DummyObjectFilter.html" title="{apollo::perception\l::lidar::DummyObjectFilter\n||+ DummyObjectFilter()\l+ ~DummyObjectFilter()\l+ Init()\l+ Filter()\l+ Name()\l}" alt="" coords="5,204,180,355"/>
+<area shape="rect" id="node3" href="$da/d71/classapollo_1_1perception_1_1lidar_1_1ROIBoundaryFilter.html" title="{apollo::perception\l::lidar::ROIBoundaryFilter\n||+ ROIBoundaryFilter()\l+ ~ROIBoundaryFilter()\l+ Init()\l+ Filter()\l+ Name()\l}" alt="" coords="205,204,375,355"/>
+</map>

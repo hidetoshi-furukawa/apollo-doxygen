@@ -1,0 +1,5 @@
+<map id="modules/perception/lidar/lib/roi_filter/hdmap_roi_filter/polygon_mask.h" name="modules/perception/lidar/lib/roi_filter/hdmap_roi_filter/polygon_mask.h">
+<area shape="rect" id="node5" href="$d7/d49/lidar__log_8h.html" title="modules/perception\l/lidar/common/lidar_log.h" alt="" coords="182,243,349,284"/>
+<area shape="rect" id="node7" href="$da/d28/bitmap2d_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/bitmap2d.h" alt="" coords="571,131,757,187"/>
+<area shape="rect" id="node10" href="$df/dc7/polygon__scan__cvter_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/polygon\l_scan_cvter.h" alt="" coords="326,124,493,195"/>
+</map>

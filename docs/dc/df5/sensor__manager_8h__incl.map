@@ -1,0 +1,6 @@
+<map id="modules/perception/common/sensor_manager/sensor_manager.h" name="modules/perception/common/sensor_manager/sensor_manager.h">
+<area shape="rect" id="node6" href="$d7/df6/camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="78,199,213,240"/>
+<area shape="rect" id="node8" href="$d5/d7b/distortion__model_8h.html" title="modules/perception\l/base/distortion_model.h" alt="" coords="99,109,263,151"/>
+<area shape="rect" id="node9" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="339,199,483,240"/>
+<area shape="rect" id="node10" href="$da/d61/perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="715,109,909,151"/>
+</map>

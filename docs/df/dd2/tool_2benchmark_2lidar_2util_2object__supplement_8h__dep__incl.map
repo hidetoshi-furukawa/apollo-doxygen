@@ -1,0 +1,13 @@
+<map id="modules/perception/tool/benchmark/lidar/util/object_supplement.h" name="modules/perception/tool/benchmark/lidar/util/object_supplement.h">
+<area shape="rect" id="node2" href="$d2/df7/tool_2benchmark_2lidar_2util_2object_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/object.h" alt="" coords="329,109,472,165"/>
+<area shape="rect" id="node3" href="$de/de8/tool_2benchmark_2lidar_2base_2frame_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/base/frame.h" alt="" coords="5,317,148,373"/>
+<area shape="rect" id="node6" href="$d5/de6/sequence__maintainer_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/base/sequence_maintainer.h" alt="" coords="351,317,543,373"/>
+<area shape="rect" id="node8" href="$d2/d9b/position__metric_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/position_metric.h" alt="" coords="159,213,312,269"/>
+<area shape="rect" id="node9" href="$df/d55/meta__statistics_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/meta_statistics.h" alt="" coords="173,317,327,373"/>
+<area shape="rect" id="node10" href="$de/d92/tool_2benchmark_2lidar_2util_2io__util_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/io_util.h" alt="" coords="439,213,581,269"/>
+<area shape="rect" id="node11" href="$d9/da9/object__util_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/object_util.h" alt="" coords="605,213,748,269"/>
+<area shape="rect" id="node12" href="$d1/db5/visibility_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/visibility.h" alt="" coords="772,213,915,269"/>
+<area shape="rect" id="node4" href="$d3/d2a/frame__statistics_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/frame_statistics.h" alt="" coords="160,421,319,477"/>
+<area shape="rect" id="node5" href="$dd/d7c/detection__evaluation_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/detection_evaluation.h" alt="" coords="265,525,421,581"/>
+<area shape="rect" id="node7" href="$d1/d93/sequence__self__statistics_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/sequence_self_statistics.h" alt="" coords="343,421,552,477"/>
+</map>

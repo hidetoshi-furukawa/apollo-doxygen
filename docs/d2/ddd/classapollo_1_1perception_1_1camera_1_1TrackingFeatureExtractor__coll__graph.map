@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::TrackingFeatureExtractor" name="apollo::perception::camera::TrackingFeatureExtractor">
+<area shape="rect" id="node2" href="$d0/d9c/classapollo_1_1perception_1_1camera_1_1BaseFeatureExtractor.html" title="{apollo::perception\l::camera::BaseFeatureExtractor\n|# feat_blob_\l# roi_x_\l# roi_y_\l# roi_w_\l# roi_h_\l|+ BaseFeatureExtractor()\l+ ~BaseFeatureExtractor()\l+ Init()\l+ Extract()\l+ Name()\l+ set_roi()\l+ decode_bbox()\l+ encode_bbox()\l}" alt="" coords="5,5,213,259"/>
+<area shape="rect" id="node3" href="$d3/d3d/classapollo_1_1perception_1_1inference_1_1GPUL2Norm.html" title="{apollo::perception\l::inference::GPUL2Norm\n||+ L2Norm()\l}" alt="" coords="238,86,405,178"/>
+</map>

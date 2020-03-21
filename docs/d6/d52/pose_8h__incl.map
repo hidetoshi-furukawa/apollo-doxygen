@@ -1,0 +1,9 @@
+<map id="modules/perception/camera/lib/traffic_light/preprocessor/pose.h" name="modules/perception/camera/lib/traffic_light/preprocessor/pose.h">
+<area shape="rect" id="node5" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="452,109,587,151"/>
+<area shape="rect" id="node7" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="937,199,1072,240"/>
+<area shape="rect" id="node18" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="395,199,529,240"/>
+<area shape="rect" id="node14" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="1119,288,1259,329"/>
+<area shape="rect" id="node15" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="1175,377,1309,419"/>
+<area shape="rect" id="node21" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="5,288,177,329"/>
+<area shape="rect" id="node23" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="395,288,529,329"/>
+</map>

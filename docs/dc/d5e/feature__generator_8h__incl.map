@@ -1,0 +1,7 @@
+<map id="modules/perception/lidar/lib/segmentation/cnnseg/feature_generator.h" name="modules/perception/lidar/lib/segmentation/cnnseg/feature_generator.h">
+<area shape="rect" id="node7" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="721,117,855,158"/>
+<area shape="rect" id="node17" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="226,117,361,158"/>
+<area shape="rect" id="node13" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="1353,213,1493,255"/>
+<area shape="rect" id="node14" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="1355,303,1490,344"/>
+<area shape="rect" id="node21" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="57,213,191,255"/>
+</map>

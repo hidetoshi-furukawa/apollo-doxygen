@@ -1,0 +1,9 @@
+<map id="modules/perception/base/image.h" name="modules/perception/base/image.h">
+<area shape="rect" id="node2" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="447,95,581,136"/>
+<area shape="rect" id="node5" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="807,184,941,225"/>
+<area shape="rect" id="node17" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="395,184,529,225"/>
+<area shape="rect" id="node13" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="1339,273,1479,315"/>
+<area shape="rect" id="node14" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="1341,363,1476,404"/>
+<area shape="rect" id="node20" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="5,273,177,315"/>
+<area shape="rect" id="node22" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="395,273,529,315"/>
+</map>

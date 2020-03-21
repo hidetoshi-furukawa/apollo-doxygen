@@ -1,0 +1,17 @@
+<map id="modules/perception/camera/lib/obstacle/detector/yolo/region_output.h" name="modules/perception/camera/lib/obstacle/detector/yolo/region_output.h">
+<area shape="rect" id="node7" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="1717,421,1851,463"/>
+<area shape="rect" id="node17" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="675,421,810,463"/>
+<area shape="rect" id="node23" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="838,243,973,284"/>
+<area shape="rect" id="node27" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1106,421,1249,463"/>
+<area shape="rect" id="node32" href="$d2/de2/math__functions_8h.html" title="modules/perception\l/camera/common/math\l_functions.h" alt="" coords="1005,131,1161,187"/>
+<area shape="rect" id="node33" href="$d2/ded/camera_2common_2util_8h.html" title="modules/perception\l/camera/common/util.h" alt="" coords="1345,139,1500,180"/>
+<area shape="rect" id="node13" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="2165,511,2305,552"/>
+<area shape="rect" id="node14" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="2139,600,2274,641"/>
+<area shape="rect" id="node19" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="750,511,922,552"/>
+<area shape="rect" id="node21" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="395,511,530,552"/>
+<area shape="rect" id="node26" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="513,332,692,373"/>
+<area shape="rect" id="node29" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="151,421,286,463"/>
+<area shape="rect" id="node31" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="717,332,867,373"/>
+<area shape="rect" id="node35" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="1602,243,1737,284"/>
+<area shape="rect" id="node36" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="1511,332,1646,373"/>
+</map>

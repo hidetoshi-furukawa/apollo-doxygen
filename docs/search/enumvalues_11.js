@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['third_5fleft',['THIRD_LEFT',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a7675543d4d48b2fe0ed5dd61344a19b7ac8b1f90771f97a45bb91af642d94f8db',1,'apollo::perception::base']]],
+  ['third_5fright',['THIRD_RIGHT',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a7675543d4d48b2fe0ed5dd61344a19b7a5de84ea3d517e6df75f3660e98c167eb',1,'apollo::perception::base']]],
+  ['tl_5fblack',['TL_BLACK',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a56a387bf37e574f75d61a7d8d473245fabea066c7c01b715aeb4e898d2641c338',1,'apollo::perception::base']]],
+  ['tl_5fgreen',['TL_GREEN',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a56a387bf37e574f75d61a7d8d473245faedbf4db0810809a299140f19970caa12',1,'apollo::perception::base']]],
+  ['tl_5fhorizontal_5fclass',['TL_HORIZONTAL_CLASS',['../db/dba/namespaceapollo_1_1perception_1_1base.html#afdccb20ee0eb74d2a744125ca4422f0fa484175e410d8fe797901fc0608d51eb3',1,'apollo::perception::base']]],
+  ['tl_5fquadrate_5fclass',['TL_QUADRATE_CLASS',['../db/dba/namespaceapollo_1_1perception_1_1base.html#afdccb20ee0eb74d2a744125ca4422f0fa29737db98e89afe55ccd59273f902706',1,'apollo::perception::base']]],
+  ['tl_5fred',['TL_RED',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a56a387bf37e574f75d61a7d8d473245fafb50242fcbf0e749bc83149b8e743ce1',1,'apollo::perception::base']]],
+  ['tl_5ftotal_5fcolor_5fnum',['TL_TOTAL_COLOR_NUM',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a56a387bf37e574f75d61a7d8d473245fa3e9b021cd4e50b5aec2f16523d4299c9',1,'apollo::perception::base']]],
+  ['tl_5funknown_5fclass',['TL_UNKNOWN_CLASS',['../db/dba/namespaceapollo_1_1perception_1_1base.html#afdccb20ee0eb74d2a744125ca4422f0faaca660ba6949cff4e4f3ac6f9a92e2fc',1,'apollo::perception::base']]],
+  ['tl_5funknown_5fcolor',['TL_UNKNOWN_COLOR',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a56a387bf37e574f75d61a7d8d473245faad8367edd6895090a23fb08a224d0cde',1,'apollo::perception::base']]],
+  ['tl_5fvertical_5fclass',['TL_VERTICAL_CLASS',['../db/dba/namespaceapollo_1_1perception_1_1base.html#afdccb20ee0eb74d2a744125ca4422f0fab914a84fc685fd96f4f6f8d3d2dd976a',1,'apollo::perception::base']]],
+  ['tl_5fyellow',['TL_YELLOW',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a56a387bf37e574f75d61a7d8d473245fa54344fb3fe331c48ce42f917f68b7490',1,'apollo::perception::base']]],
+  ['toic',['TOIC',['../d9/dcc/structapollo_1_1perception_1_1fusion_1_1ToicDstMaps.html#afd38df499725165f333ce6fd26318ddca1b27ce5391d2f6ac9a83074bf2d36238',1,'apollo::perception::fusion::ToicDstMaps']]],
+  ['toicunkown',['TOICUNKOWN',['../d9/dcc/structapollo_1_1perception_1_1fusion_1_1ToicDstMaps.html#afd38df499725165f333ce6fd26318ddca00b0eb46fb7d4574e1d5d556488d6187',1,'apollo::perception::fusion::ToicDstMaps']]],
+  ['trackererror',['TrackerError',['../d8/d36/namespaceapollo_1_1perception_1_1lidar.html#adcf21cf553070facae0e386a548dfb8ca21f449c1a104eb5d766e6a5ec50ce689',1,'apollo::perception::lidar']]],
+  ['trafficcone',['TRAFFICCONE',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a290f4a89dd52aceddf1ca1e4e971e2cdab496a13bb6e89a82db1c08604d1ad259',1,'apollo::perception::base::TRAFFICCONE()'],['../db/dba/namespaceapollo_1_1perception_1_1base.html#a100be08f08ebd7e5b51a44be53043175ab496a13bb6e89a82db1c08604d1ad259',1,'apollo::perception::base::TRAFFICCONE()']]],
+  ['trafficlight',['TrafficLight',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a1ecc9f8f07f1c1dd1fbef626aa2d0f2fa63d457eeae119cb7c5618ff7b770a9c3',1,'apollo::perception::base']]],
+  ['trafficsign',['TrafficSign',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a1ecc9f8f07f1c1dd1fbef626aa2d0f2facf2604c5e6922e73ffa77da5dc026d9d',1,'apollo::perception::base']]],
+  ['tricycle',['TRICYCLE',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a290f4a89dd52aceddf1ca1e4e971e2cdaf27f9a49165438964258950ca02038fd',1,'apollo::perception::base']]],
+  ['tricyclist',['TRICYCLIST',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a100be08f08ebd7e5b51a44be53043175a2b8c20df3143fd55969d9e63c0483627',1,'apollo::perception::base']]],
+  ['truck',['TRUCK',['../db/dba/namespaceapollo_1_1perception_1_1base.html#a290f4a89dd52aceddf1ca1e4e971e2cda881c2687b20d706b709caf71a1cf8315',1,'apollo::perception::base::TRUCK()'],['../db/dba/namespaceapollo_1_1perception_1_1base.html#a100be08f08ebd7e5b51a44be53043175a881c2687b20d706b709caf71a1cf8315',1,'apollo::perception::base::TRUCK()']]],
+  ['truck_5fmin_5fvolume_5findex',['TRUCK_MIN_VOLUME_INDEX',['../d9/dff/namespaceapollo_1_1perception_1_1camera.html#a92d6ad000bb45a000b13048e0ef2d5c1aa5a814798e436b06abbfd06aab8b7e95',1,'apollo::perception::camera']]],
+  ['trusted_5fmove',['TRUSTED_MOVE',['../d8/d36/namespaceapollo_1_1perception_1_1lidar.html#afd40189d515b32792d73c4b94ae00128a1718bc96c9e1b76748e37c7a7bfe9b25',1,'apollo::perception::lidar']]]
+];

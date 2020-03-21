@@ -1,0 +1,15 @@
+<map id="modules/perception/camera/common/undistortion_handler.h" name="modules/perception/camera/common/undistortion_handler.h">
+<area shape="rect" id="node3" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="578,303,713,344"/>
+<area shape="rect" id="node15" href="$d5/d7b/distortion__model_8h.html" title="modules/perception\l/base/distortion_model.h" alt="" coords="1437,213,1601,255"/>
+<area shape="rect" id="node18" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="1067,117,1202,158"/>
+<area shape="rect" id="node28" href="$d3/d1b/sensor__manager_8h.html" title="modules/perception\l/common/sensor_manager\l/sensor_manager.h" alt="" coords="1592,109,1768,165"/>
+<area shape="rect" id="node11" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="467,392,607,433"/>
+<area shape="rect" id="node12" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="523,481,658,523"/>
+<area shape="rect" id="node16" href="$d7/df6/camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="1811,303,1946,344"/>
+<area shape="rect" id="node19" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="1065,213,1199,255"/>
+<area shape="rect" id="node21" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="950,303,1085,344"/>
+<area shape="rect" id="node24" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="931,392,1103,433"/>
+<area shape="rect" id="node26" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="773,392,907,433"/>
+<area shape="rect" id="node31" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1281,303,1425,344"/>
+<area shape="rect" id="node32" href="$da/d61/perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="2054,213,2247,255"/>
+</map>

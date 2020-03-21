@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/dc7/classapollo_1_1perception_1_1fusion_1_1BaseTracker.html" title="apollo::perception\l::fusion::BaseTracker" alt="" coords="5,39,152,80"/>
+<area shape="rect" id="node2" href="$d1/d52/classapollo_1_1perception_1_1fusion_1_1DummyTracker.html" title="apollo::perception\l::fusion::DummyTracker" alt="" coords="200,5,363,47"/>
+<area shape="rect" id="node3" href="$d2/d9c/classapollo_1_1perception_1_1fusion_1_1PbfTracker.html" title="apollo::perception\l::fusion::PbfTracker" alt="" coords="213,71,350,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="modules/perception/lidar/lib/interface/base_object_filter.h" name="modules/perception/lidar/lib/interface/base_object_filter.h">
+<area shape="rect" id="node2" href="$d4/d52/object__filter__bank_8h.html" title="modules/perception\l/lidar/lib/object_filter\l_bank/object_filter_bank.h" alt="" coords="29,117,204,173"/>
+<area shape="rect" id="node5" href="$db/de6/dummy__object__filter_8h.html" title="modules/perception\l/lidar/lib/dummy/dummy\l_object_filter.h" alt="" coords="228,117,389,173"/>
+<area shape="rect" id="node6" href="$da/daf/roi__boundary__filter_8h.html" title="modules/perception\l/lidar/lib/object_filter\l_bank/roi_boundary_filter\l/roi_boundary_filter.h" alt="" coords="413,109,580,180"/>
+<area shape="rect" id="node3" href="$d3/d4d/lidar__obstacle__segmentation_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_segmentation.h" alt="" coords="37,228,196,284"/>
+<area shape="rect" id="node4" href="$d0/d3d/segmentation__component_8h.html" title="modules/perception\l/onboard/component/segmentation\l_component.h" alt="" coords="5,332,228,388"/>
+</map>

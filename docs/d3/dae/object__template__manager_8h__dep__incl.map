@@ -1,0 +1,11 @@
+<map id="modules/perception/camera/common/object_template_manager.h" name="modules/perception/camera/common/object_template_manager.h">
+<area shape="rect" id="node2" href="$d2/d1d/lane__camera__perception_8h.html" title="modules/perception\l/camera/app/lane_camera\l_perception.h" alt="" coords="21,117,193,173"/>
+<area shape="rect" id="node4" href="$d6/dc3/obstacle__camera__perception_8h.html" title="modules/perception\l/camera/app/obstacle\l_camera_perception.h" alt="" coords="250,117,401,173"/>
+<area shape="rect" id="node6" href="$df/d0c/obstacle__reference_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/obstacle\l_reference.h" alt="" coords="437,228,582,299"/>
+<area shape="rect" id="node7" href="$d6/daf/omt__obstacle__tracker_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/omt_obstacle\l_tracker.h" alt="" coords="533,347,707,417"/>
+<area shape="rect" id="node8" href="$d1/d4e/target_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/target.h" alt="" coords="493,117,633,173"/>
+<area shape="rect" id="node9" href="$dc/d2b/obj__mapper_8h.html" title="modules/perception\l/camera/lib/obstacle\l/transformer/multicue\l/obj_mapper.h" alt="" coords="726,109,871,180"/>
+<area shape="rect" id="node3" href="$d3/d4e/lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="5,235,173,291"/>
+<area shape="rect" id="node5" href="$d5/de0/fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="198,235,413,291"/>
+<area shape="rect" id="node10" href="$db/d33/multicue__obstacle__transformer_8h.html" title="modules/perception\l/camera/lib/obstacle\l/transformer/multicue\l/multicue_obstacle_transformer.h" alt="" coords="709,228,923,299"/>
+</map>

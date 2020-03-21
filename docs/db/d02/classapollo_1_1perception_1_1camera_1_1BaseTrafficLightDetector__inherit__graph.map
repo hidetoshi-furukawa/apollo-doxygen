@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::BaseTrafficLightDetector" name="apollo::perception::camera::BaseTrafficLightDetector">
+<area shape="rect" id="node2" href="$d8/dc5/classapollo_1_1perception_1_1camera_1_1TrafficLightDetection.html" title="{apollo::perception\l::camera::TrafficLightDetection\n||+ TrafficLightDetection()\l+ ~TrafficLightDetection()\l+ Init()\l+ Detect()\l+ SelectOutputBoxes()\l+ ApplyNMS()\l+ Inference()\l+ Name()\l+ getDetectedBoxes()\l+ TrafficLightDetection()\l+ operator=()\l}" alt="" coords="5,248,208,487"/>
+<area shape="rect" id="node3" href="$d6/dbe/classapollo_1_1perception_1_1camera_1_1TrafficLightRecognition.html" title="{apollo::perception\l::camera::TrafficLightRecognition\n||+ TrafficLightRecognition()\l+ ~TrafficLightRecognition()\l+ Init()\l+ Detect()\l+ Name()\l+ TrafficLightRecognition()\l+ operator=()\l}" alt="" coords="233,277,447,457"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::perception::lib::ConcurrentQueue&lt; Data &gt;" name="apollo::perception::lib::ConcurrentQueue&lt; Data &gt;">
+<area shape="rect" id="node2" href="$d7/d5c/classapollo_1_1perception_1_1lib_1_1Mutex.html" title="{apollo::perception\l::lib::Mutex\n||+ Mutex()\l+ ~Mutex()\l+ Lock()\l+ Unlock()\l+ TryLock()\l+ Mutex()\l+ operator=()\l}" alt="" coords="5,5,129,185"/>
+<area shape="rect" id="node3" href="$d7/d0b/classapollo_1_1perception_1_1lib_1_1CondVar.html" title="{apollo::perception\l::lib::CondVar\n||+ CondVar()\l+ ~CondVar()\l+ Wait()\l+ Signal()\l+ Signalall()\l+ CondVar()\l+ operator=()\l}" alt="" coords="153,5,277,185"/>
+</map>

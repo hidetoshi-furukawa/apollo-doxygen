@@ -1,0 +1,5 @@
+<map id="apollo::perception::lidar::ROIService" name="apollo::perception::lidar::ROIService">
+<area shape="rect" id="node2" href="$d2/deb/classapollo_1_1perception_1_1lidar_1_1SceneService.html" title="{apollo::perception\l::lidar::SceneService\n|# self_content_\l# mutex_\l|+ SceneService()\l+ ~SceneService()\l+ Init()\l+ Name()\l+ GetServiceContentCopy()\l+ UpdateServiceContent()\l}" alt="" coords="5,257,189,437"/>
+<area shape="rect" id="node3" href="$d4/d79/classapollo_1_1perception_1_1lidar_1_1ROIServiceContent.html" title="{apollo::perception\l::lidar::ROIServiceContent\n|+ bitmap_\l+ map_size_\l+ cell_size_\l+ range_\l+ major_dir_\l+ transform_\l|+ ROIServiceContent()\l+ ~ROIServiceContent()\l+ GetCopy()\l+ SetContent()\l+ Name()\l+ CheckBit()\l+ Check()\l}" alt="" coords="213,220,389,473"/>
+<area shape="rect" id="node4" href="$d9/dc0/classapollo_1_1perception_1_1lidar_1_1SceneServiceContent.html" title="{apollo::perception\l::lidar::SceneServiceContent\n|# service_ready_\l|+ SceneServiceContent()\l+ ~SceneServiceContent()\l+ Name()\l+ GetCopy()\l+ SetContent()\l+ IsServiceReady()\l}" alt="" coords="207,5,396,171"/>
+</map>

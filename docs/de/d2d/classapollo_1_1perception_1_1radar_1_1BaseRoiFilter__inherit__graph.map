@@ -1,0 +1,4 @@
+<map id="apollo::perception::radar::BaseRoiFilter" name="apollo::perception::radar::BaseRoiFilter">
+<area shape="rect" id="node2" href="$de/d5d/classapollo_1_1perception_1_1radar_1_1DummyRoiFilter.html" title="{apollo::perception\l::radar::DummyRoiFilter\n||+ DummyRoiFilter()\l+ ~DummyRoiFilter()\l+ Init()\l+ RoiFilter()\l+ Name()\l}" alt="" coords="5,204,168,355"/>
+<area shape="rect" id="node3" href="$db/db6/classapollo_1_1perception_1_1radar_1_1HdmapRadarRoiFilter.html" title="{apollo::perception\l::radar::HdmapRadarRoiFilter\n||+ HdmapRadarRoiFilter()\l+ ~HdmapRadarRoiFilter()\l+ Init()\l+ RoiFilter()\l+ Name()\l}" alt="" coords="193,204,386,355"/>
+</map>

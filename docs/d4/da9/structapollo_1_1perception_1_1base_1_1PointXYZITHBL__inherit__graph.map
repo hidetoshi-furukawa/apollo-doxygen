@@ -1,0 +1,6 @@
+<map id="apollo::perception::base::PointXYZITHBL&lt; T &gt;" name="apollo::perception::base::PointXYZITHBL&lt; T &gt;">
+<area shape="rect" id="node2" href="$df/d17/structapollo_1_1perception_1_1base_1_1PointXYZITHB.html" title="{apollo::perception\l::base::PointXYZITHB\&lt; T \&gt;\n|+ beam_id\l|}" alt="" coords="9,469,194,561"/>
+<area shape="rect" id="node3" href="$d4/d13/structapollo_1_1perception_1_1base_1_1PointXYZITH.html" title="{apollo::perception\l::base::PointXYZITH\&lt; T \&gt;\n|+ height\l|}" alt="" coords="13,329,189,421"/>
+<area shape="rect" id="node4" href="$d8/dc0/structapollo_1_1perception_1_1base_1_1PointXYZIT.html" title="{apollo::perception\l::base::PointXYZIT\&lt; T \&gt;\n|+ timestamp\l|}" alt="" coords="18,189,185,281"/>
+<area shape="rect" id="node5" href="$d7/de8/structapollo_1_1perception_1_1base_1_1Point.html" title="{apollo::perception\l::base::Point\&lt; T \&gt;\n|+ x\l+ y\l+ z\l+ intensity\l|}" alt="" coords="37,5,165,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="modules/perception/lidar/lib/scene_manager/scene_service.h" name="modules/perception/lidar/lib/scene_manager/scene_service.h">
+<area shape="rect" id="node2" href="$da/d44/ground__service_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/ground_service/ground\l_service.h" alt="" coords="213,109,376,180"/>
+<area shape="rect" id="node5" href="$d2/d85/scene__manager_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/scene_manager.h" alt="" coords="27,117,189,173"/>
+<area shape="rect" id="node6" href="$dd/dc8/roi__service_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/roi_service/roi_service.h" alt="" coords="402,117,569,173"/>
+<area shape="rect" id="node3" href="$de/d1e/ground__service__detector_8h.html" title="modules/perception\l/lidar/lib/ground_detector\l/ground_service_detector\l/ground_service_detector.h" alt="" coords="5,235,184,306"/>
+<area shape="rect" id="node4" href="$d7/d8e/spatio__temporal__ground__detector_8h.html" title="modules/perception\l/lidar/lib/ground_detector\l/spatio_temporal_ground\l_detector/spatio_temporal\l_ground_detector.h" alt="" coords="209,228,381,313"/>
+<area shape="rect" id="node7" href="$dc/d43/hdmap__roi__filter_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/hdmap\l_roi_filter.h" alt="" coords="405,235,566,306"/>
+<area shape="rect" id="node8" href="$d1/d06/roi__service__filter_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/roi_service_filter/roi\l_service_filter.h" alt="" coords="591,235,729,306"/>
+</map>

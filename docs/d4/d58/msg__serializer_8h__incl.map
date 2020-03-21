@@ -1,0 +1,10 @@
+<map id="modules/perception/onboard/msg_serializer/msg_serializer.h" name="modules/perception/onboard/msg_serializer/msg_serializer.h">
+<area shape="rect" id="node4" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="859,109,994,151"/>
+<area shape="rect" id="node9" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="685,199,864,240"/>
+<area shape="rect" id="node17" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1158,288,1301,329"/>
+<area shape="rect" id="node19" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="235,288,370,329"/>
+<area shape="rect" id="node22" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1101,199,1251,240"/>
+<area shape="rect" id="node10" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="707,288,842,329"/>
+<area shape="rect" id="node13" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="707,377,879,419"/>
+<area shape="rect" id="node15" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="446,377,581,419"/>
+</map>

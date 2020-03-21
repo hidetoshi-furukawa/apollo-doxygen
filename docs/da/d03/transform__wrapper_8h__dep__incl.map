@@ -1,0 +1,8 @@
+<map id="modules/perception/onboard/transform_wrapper/transform_wrapper.h" name="modules/perception/onboard/transform_wrapper/transform_wrapper.h">
+<area shape="rect" id="node2" href="$de/d11/msg__exporter_8h.html" title="modules/perception\l/lidar/tools/exporter\l/msg_exporter.h" alt="" coords="5,109,140,165"/>
+<area shape="rect" id="node3" href="$d5/de0/fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="164,109,379,165"/>
+<area shape="rect" id="node4" href="$d3/d4e/lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="403,109,571,165"/>
+<area shape="rect" id="node5" href="$d4/da1/radar__detection__component_8h.html" title="modules/perception\l/onboard/component/radar\l_detection_component.h" alt="" coords="595,109,769,165"/>
+<area shape="rect" id="node6" href="$d0/d3d/segmentation__component_8h.html" title="modules/perception\l/onboard/component/segmentation\l_component.h" alt="" coords="793,109,1016,165"/>
+<area shape="rect" id="node7" href="$d7/db2/trafficlights__perception__component_8h.html" title="modules/perception\l/onboard/component/trafficlights\l_perception_component.h" alt="" coords="1041,109,1249,165"/>
+</map>

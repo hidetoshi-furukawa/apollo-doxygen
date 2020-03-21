@@ -1,0 +1,29 @@
+<map id="modules/perception/lidar/lib/segmentation/cnnseg/cnn_segmentation.h" name="modules/perception/lidar/lib/segmentation/cnnseg/cnn_segmentation.h">
+<area shape="rect" id="node8" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="1091,799,1226,841"/>
+<area shape="rect" id="node18" href="$d2/db8/inference_8h.html" title="modules/perception\l/inference/inference.h" alt="" coords="435,695,581,737"/>
+<area shape="rect" id="node21" href="$d1/dcb/inference__factory_8h.html" title="modules/perception\l/inference/inference\l_factory.h" alt="" coords="336,584,472,640"/>
+<area shape="rect" id="node22" href="$d9/de2/thread__worker_8h.html" title="modules/perception\l/lib/thread/thread_worker.h" alt="" coords="2732,361,2908,403"/>
+<area shape="rect" id="node25" href="$d2/ddb/base__ground__detector_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_ground_detector.h" alt="" coords="532,354,697,410"/>
+<area shape="rect" id="node39" href="$d9/d94/lidar_2lib_2interface_2base__roi__filter_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_roi_filter.h" alt="" coords="317,354,451,410"/>
+<area shape="rect" id="node40" href="$d4/d63/base__segmentation_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_segmentation.h" alt="" coords="57,354,207,410"/>
+<area shape="rect" id="node41" href="$d7/d7c/feature__generator_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/feature_generator.h" alt="" coords="1355,584,1539,640"/>
+<area shape="rect" id="node42" href="$d9/d33/spp__engine_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_engine.h" alt="" coords="2056,109,2219,180"/>
+<area shape="rect" id="node14" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="1390,896,1530,937"/>
+<area shape="rect" id="node15" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="1393,985,1527,1027"/>
+<area shape="rect" id="node27" href="$da/df0/registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="94,695,261,737"/>
+<area shape="rect" id="node28" href="$dc/d1f/lidar__frame_8h.html" title="modules/perception\l/lidar/common/lidar\l_frame.h" alt="" coords="1153,473,1287,529"/>
+<area shape="rect" id="node30" href="$d1/dab/hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="2123,591,2271,633"/>
+<area shape="rect" id="node31" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="2177,695,2311,737"/>
+<area shape="rect" id="node35" href="$db/d2b/object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="1614,591,1789,633"/>
+<area shape="rect" id="node38" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="923,799,1067,841"/>
+<area shape="rect" id="node34" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="2449,799,2583,841"/>
+<area shape="rect" id="node36" href="$db/d41/concurrent__object__pool_8h.html" title="modules/perception\l/base/concurrent_object\l_pool.h" alt="" coords="1657,792,1818,848"/>
+<area shape="rect" id="node37" href="$de/d4c/base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="1609,695,1743,737"/>
+<area shape="rect" id="node43" href="$df/d9c/cloud__mask_8h.html" title="modules/perception\l/lidar/common/cloud\l_mask.h" alt="" coords="2597,584,2736,640"/>
+<area shape="rect" id="node44" href="$d9/d89/spp__cluster_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_cluster.h" alt="" coords="2293,465,2456,536"/>
+<area shape="rect" id="node46" href="$db/d55/spp__cluster__list_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_cluster_list.h" alt="" coords="2056,228,2219,299"/>
+<area shape="rect" id="node49" href="$d9/d2e/spp__seg__cc__2d_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_seg_cc_2d.h" alt="" coords="2581,228,2744,299"/>
+<area shape="rect" id="node50" href="$d2/d0c/spp__struct_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_struct.h" alt="" coords="1597,228,1760,299"/>
+<area shape="rect" id="node47" href="$d8/d36/spp__label__image_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_label_image.h" alt="" coords="2056,347,2219,417"/>
+<area shape="rect" id="node48" href="$dd/d2d/i__alloc_8h.html" title="modules/perception\l/common/i_lib/core/i\l_alloc.h" alt="" coords="2632,473,2771,529"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::perception::lidar::BaseGroundDetector" name="apollo::perception::lidar::BaseGroundDetector">
+<area shape="rect" id="node2" href="$d9/deb/classapollo_1_1perception_1_1lidar_1_1DummyGroundDetector.html" title="{apollo::perception\l::lidar::DummyGroundDetector\n||+ DummyGroundDetector()\l+ ~DummyGroundDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="5,211,205,362"/>
+<area shape="rect" id="node3" href="$d8/de8/classapollo_1_1perception_1_1lidar_1_1GroundServiceDetector.html" title="{apollo::perception\l::lidar::GroundServiceDetector\n||+ GroundServiceDetector()\l+ ~GroundServiceDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="229,211,427,362"/>
+<area shape="rect" id="node4" href="$de/db3/classapollo_1_1perception_1_1lidar_1_1SpatioTemporalGroundDetector.html" title="{apollo::perception\l::lidar::SpatioTemporalGround\lDetector\n||+ SpatioTemporalGroundDetector()\l+ ~SpatioTemporalGroundDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="451,204,685,369"/>
+</map>

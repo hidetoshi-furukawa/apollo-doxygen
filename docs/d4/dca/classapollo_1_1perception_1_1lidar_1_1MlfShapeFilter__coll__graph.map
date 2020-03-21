@@ -1,0 +1,4 @@
+<map id="apollo::perception::lidar::MlfShapeFilter" name="apollo::perception::lidar::MlfShapeFilter">
+<area shape="rect" id="node2" href="$d2/dde/classapollo_1_1perception_1_1lidar_1_1MlfBaseFilter.html" title="{apollo::perception\l::lidar::MlfBaseFilter\n||+ MlfBaseFilter()\l+ ~MlfBaseFilter()\l+ Init()\l+ UpdateWithObject()\l+ UpdateWithoutObject()\l+ Name()\l}" alt="" coords="5,35,172,200"/>
+<area shape="rect" id="node3" href="$d0/d06/classapollo_1_1perception_1_1common_1_1ConvexHull2D.html" title="{apollo::perception\l::common::ConvexHull2D\l\&lt; apollo::perception::\lbase::AttributePointCloud,\l apollo::perception::base\l::PointCloud \&gt;\n||+ ConvexHull2D()\l+ ~ConvexHull2D()\l+ GetConvexHull()\l+ GetConvexHullWithoutGround()\l+ GetConvexHullWithoutGround\lAndHead()\l}" alt="" coords="197,5,415,229"/>
+</map>

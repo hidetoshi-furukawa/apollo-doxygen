@@ -1,0 +1,15 @@
+<map id="modules/perception/lidar/lib/classifier/fused_classifier/ccrf_type_fusion.h" name="modules/perception/lidar/lib/classifier/fused_classifier/ccrf_type_fusion.h">
+<area shape="rect" id="node6" href="$d0/d76/type__fusion__interface_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/type\l_fusion_interface.h" alt="" coords="913,124,1060,195"/>
+<area shape="rect" id="node29" href="$d6/d09/lidar_2lib_2classifier_2fused__classifier_2util_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/util.h" alt="" coords="1621,436,1771,492"/>
+<area shape="rect" id="node7" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="762,347,897,388"/>
+<area shape="rect" id="node23" href="$da/df0/registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="1329,540,1495,581"/>
+<area shape="rect" id="node25" href="$da/d2d/object__sequence_8h.html" title="modules/perception\l/lidar/common/object\l_sequence.h" alt="" coords="1225,243,1367,299"/>
+<area shape="rect" id="node10" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="613,443,792,485"/>
+<area shape="rect" id="node18" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1059,540,1202,581"/>
+<area shape="rect" id="node19" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="849,540,983,581"/>
+<area shape="rect" id="node22" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="867,443,1018,485"/>
+<area shape="rect" id="node11" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="638,540,773,581"/>
+<area shape="rect" id="node14" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="525,629,697,671"/>
+<area shape="rect" id="node16" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="823,629,958,671"/>
+<area shape="rect" id="node28" href="$d7/d49/lidar__log_8h.html" title="modules/perception\l/lidar/common/lidar_log.h" alt="" coords="1145,347,1311,388"/>
+</map>

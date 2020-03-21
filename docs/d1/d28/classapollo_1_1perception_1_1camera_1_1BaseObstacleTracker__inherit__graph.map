@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::BaseObstacleTracker" name="apollo::perception::camera::BaseObstacleTracker">
+<area shape="rect" id="node2" href="$d2/d2e/classapollo_1_1perception_1_1camera_1_1DummyObstacleTracker.html" title="{apollo::perception\l::camera::DummyObstacleTracker\n||+ Init()\l+ Predict()\l+ Associate2D()\l+ Associate3D()\l+ Track()\l+ Name()\l}" alt="" coords="5,292,228,457"/>
+<area shape="rect" id="node3" href="$dd/d1e/classapollo_1_1perception_1_1camera_1_1OMTObstacleTracker.html" title="{apollo::perception\l::camera::OMTObstacleTracker\n|# object_template_manager_\l|+ OMTObstacleTracker()\l+ ~OMTObstacleTracker()\l+ Init()\l+ Predict()\l+ Associate2D()\l+ Associate3D()\l+ Track()\l+ Name()\l}" alt="" coords="252,277,459,472"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="apollo::perception::fusion::InformationFilter" name="apollo::perception::fusion::InformationFilter">
+<area shape="rect" id="node2" href="$da/d29/classapollo_1_1perception_1_1fusion_1_1BaseFilter.html" title="{apollo::perception\l::fusion::BaseFilter\n|# init_\l# name_\l# states_num_\l# transform_matrix_\l# global_states_\l# global_uncertainty_\l# env_uncertainty_\l# cur_observation_\l# cur_observation_uncertainty_\l# c_matrix_\l|+ BaseFilter()\l+ ~BaseFilter()\l+ Init()\l+ Predict()\l+ Correct()\l+ SetControlMatrix()\l+ GetStates()\l+ Name()\l}" alt="" coords="7,5,210,332"/>
+</map>

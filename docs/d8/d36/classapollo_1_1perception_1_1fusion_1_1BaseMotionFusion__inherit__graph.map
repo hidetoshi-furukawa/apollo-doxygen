@@ -1,0 +1,3 @@
+<map id="apollo::perception::fusion::BaseMotionFusion" name="apollo::perception::fusion::BaseMotionFusion">
+<area shape="rect" id="node2" href="$d0/d13/classapollo_1_1perception_1_1fusion_1_1KalmanMotionFusion.html" title="{apollo::perception\l::fusion::KalmanMotionFusion\n||+ KalmanMotionFusion()\l+ ~KalmanMotionFusion()\l+ KalmanMotionFusion()\l+ operator=()\l+ Init()\l+ UpdateWithMeasurement()\l+ UpdateWithoutMeasurement()\l+ Name()\l+ GetStates()\l}" alt="" coords="5,248,213,457"/>
+</map>

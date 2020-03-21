@@ -1,0 +1,33 @@
+<map id="modules/perception/fusion/lib/data_association/hm_data_association/hm_tracks_objects_match.h" name="modules/perception/fusion/lib/data_association/hm_data_association/hm_tracks_objects_match.h">
+<area shape="rect" id="node4" href="$d6/d39/gated__hungarian__bigraph__matcher_8h.html" title="modules/perception\l/common/graph/gated\l_hungarian_bigraph_matcher.h" alt="" coords="4020,584,4218,640"/>
+<area shape="rect" id="node16" href="$d5/d50/track__object__distance_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/track\l_object_distance.h" alt="" coords="2356,124,2538,195"/>
+<area shape="rect" id="node48" href="$df/dec/base__data__association_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_data_association.h" alt="" coords="1962,243,2132,299"/>
+<area shape="rect" id="node10" href="$de/d5b/connected__component__analysis_8h.html" title="modules/perception\l/common/graph/connected\l_component_analysis.h" alt="" coords="3804,688,3980,744"/>
+<area shape="rect" id="node12" href="$d0/dcd/hungarian__optimizer_8h.html" title="modules/perception\l/common/graph/hungarian\l_optimizer.h" alt="" coords="4157,688,4329,744"/>
+<area shape="rect" id="node15" href="$d5/da0/secure__matrix_8h.html" title="modules/perception\l/common/graph/secure\l_matrix.h" alt="" coords="4175,792,4330,848"/>
+<area shape="rect" id="node18" href="$d3/d1b/sensor__manager_8h.html" title="modules/perception\l/common/sensor_manager\l/sensor_manager.h" alt="" coords="592,473,768,529"/>
+<area shape="rect" id="node28" href="$d5/d86/fusion__log_8h.html" title="modules/perception\l/fusion/base/fusion_log.h" alt="" coords="3842,250,4009,291"/>
+<area shape="rect" id="node29" href="$d0/d66/sensor__data__manager_8h.html" title="modules/perception\l/fusion/base/sensor\l_data_manager.h" alt="" coords="1230,243,1366,299"/>
+<area shape="rect" id="node38" href="$d4/d27/sensor__frame_8h.html" title="modules/perception\l/fusion/base/sensor\l_frame.h" alt="" coords="1834,473,1970,529"/>
+<area shape="rect" id="node39" href="$db/d03/sensor__object_8h.html" title="modules/perception\l/fusion/base/sensor\l_object.h" alt="" coords="1892,584,2028,640"/>
+<area shape="rect" id="node40" href="$dd/d47/track_8h.html" title="modules/perception\l/fusion/base/track.h" alt="" coords="1386,480,1524,521"/>
+<area shape="rect" id="node41" href="$d7/da8/camera__util_8h.html" title="modules/perception\l/fusion/common/camera\l_util.h" alt="" coords="2146,473,2308,529"/>
+<area shape="rect" id="node43" href="$de/dc1/probabilities_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/probabilities.h" alt="" coords="3533,584,3766,640"/>
+<area shape="rect" id="node44" href="$dc/d5d/projection__cache_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/projection\l_cache.h" alt="" coords="3146,465,3356,536"/>
+<area shape="rect" id="node45" href="$d4/d1c/track__object__similarity_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/track\l_object_similarity.h" alt="" coords="2916,347,3098,417"/>
+<area shape="rect" id="node22" href="$d7/df6/camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="1052,695,1186,737"/>
+<area shape="rect" id="node24" href="$d5/d7b/distortion__model_8h.html" title="modules/perception\l/base/distortion_model.h" alt="" coords="718,591,882,633"/>
+<area shape="rect" id="node25" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="782,695,926,737"/>
+<area shape="rect" id="node26" href="$da/d61/perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="297,591,490,633"/>
+<area shape="rect" id="node31" href="$de/d4c/base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="2154,591,2289,633"/>
+<area shape="rect" id="node35" href="$d5/d2e/sensor_8h.html" title="modules/perception\l/fusion/base/sensor.h" alt="" coords="1492,361,1639,403"/>
+<area shape="rect" id="node32" href="$db/df4/frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="1916,695,2092,737"/>
+<area shape="rect" id="node33" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="2269,695,2404,737"/>
+<area shape="rect" id="node34" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="2312,799,2454,841"/>
+<area shape="rect" id="node37" href="$d4/df3/base__forward__declaration_8h.html" title="modules/perception\l/fusion/base/base_forward\l_declaration.h" alt="" coords="1514,688,1689,744"/>
+<area shape="rect" id="node42" href="$d8/dd9/common_2geometry_2common_8h.html" title="modules/perception\l/common/geometry/common.h" alt="" coords="3278,695,3477,737"/>
+<area shape="rect" id="node46" href="$d5/d3e/chi__squared__cdf__1__0_80500__0_8999900_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/chi\l_squared_cdf_1_0.0500_0.999900.h" alt="" coords="2637,465,2868,536"/>
+<area shape="rect" id="node47" href="$da/daf/chi__squared__cdf__2__0_80500__0_8999900_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/chi\l_squared_cdf_2_0.0500_0.999900.h" alt="" coords="2892,465,3122,536"/>
+<area shape="rect" id="node49" href="$db/d83/scene_8h.html" title="modules/perception\l/fusion/base/scene.h" alt="" coords="1674,361,1817,403"/>
+<area shape="rect" id="node50" href="$da/df0/registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="2733,695,2900,737"/>
+</map>

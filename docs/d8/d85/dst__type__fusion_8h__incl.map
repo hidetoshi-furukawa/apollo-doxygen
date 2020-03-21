@@ -1,0 +1,27 @@
+<map id="modules/perception/fusion/lib/data_fusion/type_fusion/dst_type_fusion/dst_type_fusion.h" name="modules/perception/fusion/lib/data_fusion/type_fusion/dst_type_fusion/dst_type_fusion.h">
+<area shape="rect" id="node6" href="$d5/d2b/dst__evidence_8h.html" title="modules/perception\l/fusion/common/dst_evidence.h" alt="" coords="195,719,402,760"/>
+<area shape="rect" id="node9" href="$d8/d05/base__type__fusion_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_type_fusion.h" alt="" coords="712,124,851,180"/>
+<area shape="rect" id="node10" href="$d4/df3/base__forward__declaration_8h.html" title="modules/perception\l/fusion/base/base_forward\l_declaration.h" alt="" coords="3141,525,3315,581"/>
+<area shape="rect" id="node12" href="$db/d83/scene_8h.html" title="modules/perception\l/fusion/base/scene.h" alt="" coords="859,235,1002,277"/>
+<area shape="rect" id="node32" href="$d4/d27/sensor__frame_8h.html" title="modules/perception\l/fusion/base/sensor\l_frame.h" alt="" coords="1605,228,1741,284"/>
+<area shape="rect" id="node48" href="$da/df0/registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="529,719,695,760"/>
+<area shape="rect" id="node13" href="$db/d03/sensor__object_8h.html" title="modules/perception\l/fusion/base/sensor\l_object.h" alt="" coords="1480,421,1616,477"/>
+<area shape="rect" id="node31" href="$dd/d47/track_8h.html" title="modules/perception\l/fusion/base/track.h" alt="" coords="862,332,999,373"/>
+<area shape="rect" id="node16" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1575,533,1710,574"/>
+<area shape="rect" id="node30" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1407,533,1551,574"/>
+<area shape="rect" id="node18" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1391,629,1569,671"/>
+<area shape="rect" id="node26" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1025,719,1167,760"/>
+<area shape="rect" id="node27" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="1686,719,1821,760"/>
+<area shape="rect" id="node29" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1594,629,1745,671"/>
+<area shape="rect" id="node19" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1845,719,1979,760"/>
+<area shape="rect" id="node22" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1493,808,1665,849"/>
+<area shape="rect" id="node24" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1334,808,1469,849"/>
+<area shape="rect" id="node33" href="$de/d4c/base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="1730,332,1865,373"/>
+<area shape="rect" id="node34" href="$db/df4/frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="2324,429,2500,470"/>
+<area shape="rect" id="node35" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="2610,719,2745,760"/>
+<area shape="rect" id="node45" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="2359,533,2494,574"/>
+<area shape="rect" id="node47" href="$d1/d15/impending__collision__edge_8h.html" title="modules/perception\l/base/impending_collision\l_edge.h" alt="" coords="2012,525,2183,581"/>
+<area shape="rect" id="node41" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="3266,808,3406,849"/>
+<area shape="rect" id="node42" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="3269,897,3403,939"/>
+<area shape="rect" id="node46" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="2359,629,2494,671"/>
+</map>

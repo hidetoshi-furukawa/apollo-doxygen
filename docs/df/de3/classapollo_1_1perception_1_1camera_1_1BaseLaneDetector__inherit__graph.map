@@ -1,0 +1,5 @@
+<map id="apollo::perception::camera::BaseLaneDetector" name="apollo::perception::camera::BaseLaneDetector">
+<area shape="rect" id="node2" href="$d8/d4a/classapollo_1_1perception_1_1camera_1_1DarkSCNNLaneDetector.html" title="{apollo::perception\l::camera::DarkSCNNLaneDetector\n||+ DarkSCNNLaneDetector()\l+ ~DarkSCNNLaneDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="5,233,232,384"/>
+<area shape="rect" id="node3" href="$df/d86/classapollo_1_1perception_1_1camera_1_1DenselineLaneDetector.html" title="{apollo::perception\l::camera::DenselineLaneDetector\n||+ DenselineLaneDetector()\l+ ~DenselineLaneDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="257,233,474,384"/>
+<area shape="rect" id="node4" href="$d4/da4/classapollo_1_1perception_1_1camera_1_1DummyLaneDetector.html" title="{apollo::perception\l::camera::DummyLaneDetector\n||+ DummyLaneDetector()\l+ ~DummyLaneDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="499,233,704,384"/>
+</map>

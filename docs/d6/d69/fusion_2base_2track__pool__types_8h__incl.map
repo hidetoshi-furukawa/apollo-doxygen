@@ -1,0 +1,16 @@
+<map id="modules/perception/fusion/base/track_pool_types.h" name="modules/perception/fusion/base/track_pool_types.h">
+<area shape="rect" id="node2" href="$db/d41/concurrent__object__pool_8h.html" title="modules/perception\l/base/concurrent_object\l_pool.h" alt="" coords="207,496,368,552"/>
+<area shape="rect" id="node10" href="$dd/d47/track_8h.html" title="modules/perception\l/fusion/base/track.h" alt="" coords="1261,109,1399,151"/>
+<area shape="rect" id="node9" href="$d6/db3/object__pool_8h.html" title="modules/perception\l/base/object_pool.h" alt="" coords="81,600,216,641"/>
+<area shape="rect" id="node14" href="$db/d03/sensor__object_8h.html" title="modules/perception\l/fusion/base/sensor\l_object.h" alt="" coords="1066,199,1202,255"/>
+<area shape="rect" id="node16" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="969,310,1104,351"/>
+<area shape="rect" id="node31" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1523,407,1667,448"/>
+<area shape="rect" id="node32" href="$d4/df3/base__forward__declaration_8h.html" title="modules/perception\l/fusion/base/base_forward\l_declaration.h" alt="" coords="508,303,683,359"/>
+<area shape="rect" id="node18" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1099,407,1278,448"/>
+<area shape="rect" id="node26" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1473,503,1616,545"/>
+<area shape="rect" id="node27" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="1001,503,1136,545"/>
+<area shape="rect" id="node30" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="823,407,973,448"/>
+<area shape="rect" id="node19" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1212,503,1347,545"/>
+<area shape="rect" id="node22" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1567,600,1739,641"/>
+<area shape="rect" id="node24" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1164,600,1299,641"/>
+</map>

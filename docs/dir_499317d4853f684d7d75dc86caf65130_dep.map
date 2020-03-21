@@ -1,0 +1,9 @@
+<map id="modules/perception/camera/tools/lane_detection" name="modules/perception/camera/tools/lane_detection">
+<area shape="rect" id="node1" href="dir_499317d4853f684d7d75dc86caf65130.html" title="lane_detection" alt="" coords="27,52,133,100"/>
+<area shape="rect" id="node2" href="dir_d02d02be719011d60be6590b147f8f58.html" title="base" alt="" coords="43,244,115,292"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000074_000002.html" title="2" alt="" coords="76,217,84,232"/>
+<area shape="rect" id="node3" href="dir_3c460c13d3fd2212308b796ada0161bd.html" title="lib" alt="" coords="80,148,152,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000074_000028.html" title="1" alt="" coords="104,120,112,135"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000028_000002.html" title="36" alt="" coords="95,222,110,237"/>
+<area shape="rect" id="clust1" href="dir_ec46a7631721d4501f183029d7e576f1.html" title="tools" alt="" coords="16,16,144,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d4d/classapollo_1_1perception_1_1inference_1_1Inference.html" title="apollo::perception\l::inference::Inference" alt="" coords="5,71,151,112"/>
+<area shape="rect" id="node2" href="$de/d73/classapollo_1_1perception_1_1inference_1_1CaffeNet.html" title="apollo::perception\l::inference::CaffeNet" alt="" coords="203,5,347,47"/>
+<area shape="rect" id="node3" href="$d3/d6e/classapollo_1_1perception_1_1inference_1_1PaddleNet.html" title="apollo::perception\l::inference::PaddleNet" alt="" coords="199,71,351,112"/>
+<area shape="rect" id="node4" href="$d3/de4/classapollo_1_1perception_1_1inference_1_1RTNet.html" title="apollo::perception\l::inference::RTNet" alt="" coords="209,136,340,177"/>
+</map>

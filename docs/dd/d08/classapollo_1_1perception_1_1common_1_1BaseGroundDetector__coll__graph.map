@@ -1,0 +1,3 @@
+<map id="apollo::perception::common::BaseGroundDetector" name="apollo::perception::common::BaseGroundDetector">
+<area shape="rect" id="node2" href="$d3/d5c/structapollo_1_1perception_1_1common_1_1PlaneFitGroundDetectorParam.html" title="{apollo::perception\l::common::PlaneFitGroundDetector\lParam\n|+ nr_points_max\l+ nr_grids_fine\l+ nr_grids_coarse\l+ nr_z_comp_candis\l+ nr_z_comp_fail_threshold\l+ nr_samples_min_threshold\l+ nr_inliers_min_threshold\l+ nr_samples_max_threshold\l+ sample_region_z_lower\l+ sample_region_z_upper\land 12 more...\l|+ PlaneFitGroundDetectorParam()\l+ Validate()\l+ SetDefault()\l}" alt="" coords="5,5,233,288"/>
+</map>

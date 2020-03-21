@@ -1,0 +1,3 @@
+<map id="apollo::perception::lidar::SpatioTemporalGroundDetector" name="apollo::perception::lidar::SpatioTemporalGroundDetector">
+<area shape="rect" id="node2" href="$df/df2/classapollo_1_1perception_1_1lidar_1_1BaseGroundDetector.html" title="{apollo::perception\l::lidar::BaseGroundDetector\n||+ BaseGroundDetector()\l+ ~BaseGroundDetector()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="30,5,214,156"/>
+</map>

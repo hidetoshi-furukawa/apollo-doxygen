@@ -1,0 +1,10 @@
+<map id="modules/perception/onboard/inner_component_messages/inner_component_messages.h" name="modules/perception/onboard/inner_component_messages/inner_component_messages.h">
+<area shape="rect" id="node2" href="$d5/de0/fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="5,124,220,180"/>
+<area shape="rect" id="node3" href="$d5/da5/fusion__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_component.h" alt="" coords="245,124,423,180"/>
+<area shape="rect" id="node4" href="$d3/d4e/lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="447,124,615,180"/>
+<area shape="rect" id="node5" href="$d2/df2/lidar__inner__component__messages_8h.html" title="modules/perception\l/onboard/component/lidar\l_inner_component_messages.h" alt="" coords="691,124,897,180"/>
+<area shape="rect" id="node6" href="$d1/ddb/recognition__component_8h.html" title="modules/perception\l/onboard/component/recognition\l_component.h" alt="" coords="549,228,756,284"/>
+<area shape="rect" id="node8" href="$db/d26/lidar__output__component_8h.html" title="modules/perception\l/onboard/component/lidar\l_output_component.h" alt="" coords="922,124,1090,180"/>
+<area shape="rect" id="node9" href="$d4/da1/radar__detection__component_8h.html" title="modules/perception\l/onboard/component/radar\l_detection_component.h" alt="" coords="1114,124,1287,180"/>
+<area shape="rect" id="node7" href="$d0/d3d/segmentation__component_8h.html" title="modules/perception\l/onboard/component/segmentation\l_component.h" alt="" coords="780,228,1003,284"/>
+</map>

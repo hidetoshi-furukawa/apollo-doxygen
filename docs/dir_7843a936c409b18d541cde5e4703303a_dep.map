@@ -1,0 +1,13 @@
+<map id="modules/perception/camera/test" name="modules/perception/camera/test">
+<area shape="rect" id="node1" href="dir_7843a936c409b18d541cde5e4703303a.html" title="test" alt="" coords="27,52,99,100"/>
+<area shape="rect" id="node2" href="dir_b7e54f8867fbb6821830910b8e5b05cd.html" title="common" alt="" coords="39,244,111,292"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000072_000003.html" title="6" alt="" coords="76,218,84,233"/>
+<area shape="rect" id="node3" href="dir_d02d02be719011d60be6590b147f8f58.html" title="base" alt="" coords="39,340,111,388"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000072_000002.html" title="1" alt="" coords="45,313,53,328"/>
+<area shape="rect" id="node4" href="dir_3c460c13d3fd2212308b796ada0161bd.html" title="lib" alt="" coords="100,148,172,196"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000072_000028.html" title="1" alt="" coords="109,121,117,135"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000003_000002.html" title="16" alt="" coords="76,314,90,329"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000028_000003.html" title="3" alt="" coords="103,225,111,240"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000028_000002.html" title="36" alt="" coords="105,322,120,337"/>
+<area shape="rect" id="clust1" href="dir_b6ea5ff4b2b4ed45c832e4f48eaa7a88.html" title="camera" alt="" coords="16,16,109,111"/>
+</map>

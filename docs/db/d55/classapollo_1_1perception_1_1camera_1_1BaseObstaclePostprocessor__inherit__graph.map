@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::BaseObstaclePostprocessor" name="apollo::perception::camera::BaseObstaclePostprocessor">
+<area shape="rect" id="node2" href="$db/d4c/classapollo_1_1perception_1_1camera_1_1DummyObstaclePostprocessor.html" title="{apollo::perception\l::camera::DummyObstaclePostprocessor\n||+ DummyObstaclePostprocessor()\l+ ~DummyObstaclePostprocessor()\l+ Init()\l+ Process()\l+ Name()\l}" alt="" coords="5,248,268,399"/>
+<area shape="rect" id="node3" href="$d9/dc3/classapollo_1_1perception_1_1camera_1_1LocationRefinerObstaclePostprocessor.html" title="{apollo::perception\l::camera::LocationRefinerObstacle\lPostprocessor\n||+ LocationRefinerObstaclePostprocessor()\l+ ~LocationRefinerObstacle\lPostprocessor()\l+ Init()\l+ Process()\l+ Name()\l}" alt="" coords="293,233,562,413"/>
+</map>

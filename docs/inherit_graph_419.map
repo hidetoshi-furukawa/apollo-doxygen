@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/dad/classapollo_1_1perception_1_1radar_1_1BaseDetector.html" title="apollo::perception\l::radar::BaseDetector" alt="" coords="5,39,152,80"/>
+<area shape="rect" id="node2" href="$dd/dec/classapollo_1_1perception_1_1radar_1_1ContiArsDetector.html" title="apollo::perception\l::radar::ContiArsDetector" alt="" coords="200,5,368,47"/>
+<area shape="rect" id="node3" href="$df/dc7/classapollo_1_1perception_1_1radar_1_1DummyDetector.html" title="apollo::perception\l::radar::DummyDetector" alt="" coords="203,71,365,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::perception::lidar::SceneService" name="apollo::perception::lidar::SceneService">
+<area shape="rect" id="node2" href="$dd/de8/classapollo_1_1perception_1_1lidar_1_1GroundService.html" title="{apollo::perception\l::lidar::GroundService\n|# ground_content_ref_\l|+ GroundService()\l+ ~GroundService()\l+ Init()\l+ Name()\l+ GetGroundServiceContent()\l+ QueryPointToGroundDistance()\l+ QueryPointToGroundDistance()\l}" alt="" coords="5,233,221,413"/>
+<area shape="rect" id="node3" href="$de/d94/classapollo_1_1perception_1_1lidar_1_1ROIService.html" title="{apollo::perception\l::lidar::ROIService\n|# roi_content_ref_\l|+ ROIService()\l+ ~ROIService()\l+ Init()\l+ Name()\l+ QueryIsPointInROI()\l+ QueryIsPointInROI()\l}" alt="" coords="246,241,399,406"/>
+</map>

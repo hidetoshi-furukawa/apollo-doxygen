@@ -1,0 +1,16 @@
+<map id="modules/perception/camera/common/data_provider.h" name="modules/perception/camera/common/data_provider.h">
+<area shape="rect" id="node5" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="795,407,930,448"/>
+<area shape="rect" id="node16" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="394,407,529,448"/>
+<area shape="rect" id="node23" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="870,221,1005,262"/>
+<area shape="rect" id="node26" href="$db/d48/undistortion__handler_8h.html" title="modules/perception\l/camera/common/undistortion\l_handler.h" alt="" coords="1059,109,1253,165"/>
+<area shape="rect" id="node12" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="605,496,745,537"/>
+<area shape="rect" id="node13" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="575,585,710,627"/>
+<area shape="rect" id="node19" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="198,496,370,537"/>
+<area shape="rect" id="node21" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="394,496,529,537"/>
+<area shape="rect" id="node24" href="$d7/d18/image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="659,317,794,359"/>
+<area shape="rect" id="node27" href="$d5/d7b/distortion__model_8h.html" title="modules/perception\l/base/distortion_model.h" alt="" coords="1718,317,1882,359"/>
+<area shape="rect" id="node30" href="$d3/d1b/sensor__manager_8h.html" title="modules/perception\l/common/sensor_manager\l/sensor_manager.h" alt="" coords="1152,213,1328,269"/>
+<area shape="rect" id="node28" href="$d7/df6/camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="1522,407,1657,448"/>
+<area shape="rect" id="node33" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1028,407,1172,448"/>
+<area shape="rect" id="node34" href="$da/d61/perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="1347,317,1541,359"/>
+</map>

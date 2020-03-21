@@ -1,0 +1,8 @@
+<map id="modules/perception/map/hdmap/hdmap_input.h" name="modules/perception/map/hdmap/hdmap_input.h">
+<area shape="rect" id="node2" href="$d3/d2d/map__manager_8h.html" title="modules/perception\l/lidar/lib/map_manager\l/map_manager.h" alt="" coords="40,95,193,151"/>
+<area shape="rect" id="node5" href="$d5/da5/fusion__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_component.h" alt="" coords="218,95,397,151"/>
+<area shape="rect" id="node6" href="$d4/da1/radar__detection__component_8h.html" title="modules/perception\l/onboard/component/radar\l_detection_component.h" alt="" coords="421,95,594,151"/>
+<area shape="rect" id="node7" href="$d7/db2/trafficlights__perception__component_8h.html" title="modules/perception\l/onboard/component/trafficlights\l_perception_component.h" alt="" coords="618,95,826,151"/>
+<area shape="rect" id="node3" href="$d3/d4d/lidar__obstacle__segmentation_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_segmentation.h" alt="" coords="37,199,196,255"/>
+<area shape="rect" id="node4" href="$d0/d3d/segmentation__component_8h.html" title="modules/perception\l/onboard/component/segmentation\l_component.h" alt="" coords="5,303,228,359"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::perception::inference::Inference" name="apollo::perception::inference::Inference">
+<area shape="rect" id="node2" href="$de/d73/classapollo_1_1perception_1_1inference_1_1CaffeNet.html" title="{apollo::perception\l::inference::CaffeNet\n|# net_\l|+ CaffeNet()\l+ CaffeNet()\l+ ~CaffeNet()\l+ Init()\l+ Infer()\l+ get_blob()\l# reshape()\l# shape()\l}" alt="" coords="5,321,149,516"/>
+<area shape="rect" id="node3" href="$d3/d6e/classapollo_1_1perception_1_1inference_1_1PaddleNet.html" title="{apollo::perception\l::inference::PaddleNet\n|# predictor_\l|+ PaddleNet()\l+ PaddleNet()\l+ ~PaddleNet()\l+ Init()\l+ Infer()\l+ get_blob()\l# reshape()\l# shape()\l}" alt="" coords="173,321,325,516"/>
+<area shape="rect" id="node4" href="$d3/de4/classapollo_1_1perception_1_1inference_1_1RTNet.html" title="{apollo::perception\l::inference::RTNet\n||+ RTNet()\l+ RTNet()\l+ RTNet()\l+ ~RTNet()\l+ Init()\l+ Infer()\l+ get_blob()\l# addInput()\l# shape()\l# ConstructMap()\l# parse_with_api()\l# addLayer()\l# addConvLayer()\l# addDeconvLayer()\l# addActiveLayer()\l# addConcatLayer()\l# addPoolingLayer()\land 16 more...\l}" alt="" coords="349,248,488,589"/>
+</map>

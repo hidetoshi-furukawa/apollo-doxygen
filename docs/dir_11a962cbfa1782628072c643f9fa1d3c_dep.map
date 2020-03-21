@@ -1,0 +1,35 @@
+<map id="modules/perception/onboard" name="modules/perception/onboard">
+<area shape="rect" id="node2" href="dir_948c0ce464f1479ec978349534f55d51.html" title="common_flags" alt="" coords="484,185,591,233"/>
+<area shape="rect" id="node3" href="dir_f670f284660be130c3916bfdd265e0f0.html" title="component" alt="" coords="503,89,590,137"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000144_000143.html" title="1" alt="" coords="546,160,554,174"/>
+<area shape="rect" id="node4" href="dir_1cda6796559e90924cdc1545926fe995.html" title="inner_component_messages" alt="" coords="615,185,803,233"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000144_000145.html" title="7" alt="" coords="653,161,661,175"/>
+<area shape="rect" id="node5" href="dir_27128424832b0291f571386ecde5bfe0.html" title="msg_buffer" alt="" coords="373,185,459,233"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000144_000146.html" title="1" alt="" coords="465,173,473,188"/>
+<area shape="rect" id="node7" href="dir_8b4f16faa5d1b774e3096cdbf0881107.html" title="transform_wrapper" alt="" coords="828,185,959,233"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000144_000148.html" title="5" alt="" coords="809,168,817,183"/>
+<area shape="rect" id="node8" href="dir_c3114434b6cd1930a8cd489d40190a0d.html" title="radar" alt="" coords="76,185,148,233"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000144_000038.html" title="1" alt="" coords="164,185,172,199"/>
+<area shape="rect" id="node9" href="dir_d02d02be719011d60be6590b147f8f58.html" title="base" alt="" coords="220,281,292,329"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000144_000002.html" title="13" alt="" coords="196,282,210,297"/>
+<area shape="rect" id="node10" href="dir_a5a2e532f43f12e55bb54de443eea97d.html" title="map" alt="" coords="991,185,1063,233"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000144_000140.html" title="3" alt="" coords="972,169,980,184"/>
+<area shape="rect" id="node11" href="dir_a81adb817d9cb826ed73c47151acbf06.html" title="fusion" alt="" coords="172,185,244,233"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000144_000035.html" title="2" alt="" coords="260,184,268,199"/>
+<area shape="rect" id="node12" href="dir_ba95c20b7419ceca6e0cfabca1385d38.html" title="lidar" alt="" coords="991,89,1063,137"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000144_000010.html" title="4" alt="" coords="1014,61,1022,76"/>
+<area shape="rect" id="node13" href="dir_b6ea5ff4b2b4ed45c832e4f48eaa7a88.html" title="camera" alt="" coords="268,185,340,233"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000144_000018.html" title="13" alt="" coords="353,185,368,200"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000145_000002.html" title="3" alt="" coords="307,302,315,317"/>
+<area shape="rect" id="node6" href="dir_217dc26ae95fb8dfea490b0ada3869ec.html" title="msg_serializer" alt="" coords="372,89,479,137"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000147_000002.html" title="1" alt="" coords="198,285,206,300"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000038_000002.html" title="11" alt="" coords="200,266,215,280"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000140_000002.html" title="1" alt="" coords="307,304,315,319"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000035_000002.html" title="9" alt="" coords="239,253,247,268"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000010_000148.html" title="1" alt="" coords="943,174,951,188"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000010_000002.html" title="33" alt="" coords="304,305,318,319"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000010_000140.html" title="1" alt="" coords="1031,159,1039,173"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000018_000002.html" title="58" alt="" coords="277,261,291,275"/>
+<area shape="rect" id="clust2" href="dir_11a962cbfa1782628072c643f9fa1d3c.html" alt="" coords="361,78,969,244"/>
+<area shape="rect" id="clust1" href="dir_eae0ee1c8937adf30ca5fa2a95a97c5d.html" title="perception" alt="" coords="351,42,980,254"/>
+</map>

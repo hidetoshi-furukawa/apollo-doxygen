@@ -1,0 +1,31 @@
+<map id="modules/perception/fusion/base/sensor_object.h" name="modules/perception/fusion/base/sensor_object.h">
+<area shape="rect" id="node2" href="$db/d83/scene_8h.html" title="modules/perception\l/fusion/base/scene.h" alt="" coords="1006,243,1149,284"/>
+<area shape="rect" id="node22" href="$dd/d47/track_8h.html" title="modules/perception\l/fusion/base/track.h" alt="" coords="1946,124,2083,165"/>
+<area shape="rect" id="node24" href="$d5/d50/track__object__distance_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/track\l_object_distance.h" alt="" coords="2095,451,2278,521"/>
+<area shape="rect" id="node25" href="$d4/d27/sensor__frame_8h.html" title="modules/perception\l/fusion/base/sensor\l_frame.h" alt="" coords="1319,117,1455,173"/>
+<area shape="rect" id="node28" href="$d7/da8/camera__util_8h.html" title="modules/perception\l/fusion/common/camera\l_util.h" alt="" coords="2508,117,2671,173"/>
+<area shape="rect" id="node29" href="$dc/d5d/projection__cache_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/projection\l_cache.h" alt="" coords="2107,109,2317,180"/>
+<area shape="rect" id="node30" href="$d4/d1c/track__object__similarity_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/track\l_object_similarity.h" alt="" coords="2250,228,2433,299"/>
+<area shape="rect" id="node3" href="$d8/d01/base__fusion__system_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_fusion_system.h" alt="" coords="460,347,617,403"/>
+<area shape="rect" id="node8" href="$df/dec/base__data__association_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_data_association.h" alt="" coords="641,347,812,403"/>
+<area shape="rect" id="node10" href="$d8/dfd/base__existance__fusion_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_existance_fusion.h" alt="" coords="1159,347,1329,403"/>
+<area shape="rect" id="node13" href="$de/dfe/base__motion__fusion_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_motion_fusion.h" alt="" coords="1354,347,1507,403"/>
+<area shape="rect" id="node15" href="$d2/df6/base__shape__fusion_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_shape_fusion.h" alt="" coords="1532,347,1681,403"/>
+<area shape="rect" id="node17" href="$d5/d30/fusion_2lib_2interface_2base__tracker_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_tracker.h" alt="" coords="999,347,1134,403"/>
+<area shape="rect" id="node18" href="$d8/d05/base__type__fusion_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_type_fusion.h" alt="" coords="836,347,975,403"/>
+<area shape="rect" id="node20" href="$d9/dd2/base__gatekeeper_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_gatekeeper.h" alt="" coords="300,347,436,403"/>
+<area shape="rect" id="node4" href="$da/d95/obstacle__multi__sensor__fusion_8h.html" title="modules/perception\l/fusion/app/obstacle\l_multi_sensor_fusion.h" alt="" coords="299,458,455,514"/>
+<area shape="rect" id="node5" href="$d5/da5/fusion__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_component.h" alt="" coords="231,577,409,633"/>
+<area shape="rect" id="node6" href="$d5/d24/fusion_2lib_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/fusion/lib/dummy/dummy\l_algorithms.h" alt="" coords="979,458,1151,514"/>
+<area shape="rect" id="node7" href="$d0/d64/probabilistic__fusion_8h.html" title="modules/perception\l/fusion/lib/fusion_system\l/probabilistic_fusion/probabilistic\l_fusion.h" alt="" coords="480,451,691,521"/>
+<area shape="rect" id="node9" href="$d0/de8/hm__tracks__objects__match_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/hm_tracks\l_objects_match.h" alt="" coords="1362,569,1577,640"/>
+<area shape="rect" id="node11" href="$df/d46/dst__existance__fusion_8h.html" title="modules/perception\l/fusion/lib/data_fusion\l/existance_fusion/dst_existance\l_fusion/dst_existance_fusion.h" alt="" coords="1175,451,1385,521"/>
+<area shape="rect" id="node12" href="$df/d2f/pbf__tracker_8h.html" title="modules/perception\l/fusion/lib/data_fusion\l/tracker/pbf_tracker/pbf\l_tracker.h" alt="" coords="1409,451,1567,521"/>
+<area shape="rect" id="node14" href="$de/d66/kalman__motion__fusion_8h.html" title="modules/perception\l/fusion/lib/data_fusion\l/motion_fusion/kalman_motion\l_fusion/kalman_motion_fusion.h" alt="" coords="1591,451,1801,521"/>
+<area shape="rect" id="node16" href="$d5/d50/pbf__shape__fusion_8h.html" title="modules/perception\l/fusion/lib/data_fusion\l/shape_fusion/pbf_shape\l_fusion/pbf_shape_fusion.h" alt="" coords="1825,451,2007,521"/>
+<area shape="rect" id="node19" href="$de/deb/dst__type__fusion_8h.html" title="modules/perception\l/fusion/lib/data_fusion\l/type_fusion/dst_type_fusion\l/dst_type_fusion.h" alt="" coords="765,451,955,521"/>
+<area shape="rect" id="node21" href="$d2/da9/pbf__gatekeeper_8h.html" title="modules/perception\l/fusion/lib/gatekeeper\l/pbf_gatekeeper/pbf_gatekeeper.h" alt="" coords="5,458,224,514"/>
+<area shape="rect" id="node23" href="$dd/d95/fusion_2base_2track__pool__types_8h.html" title="modules/perception\l/fusion/base/track_pool\l_types.h" alt="" coords="1967,235,2124,291"/>
+<area shape="rect" id="node26" href="$d5/d2e/sensor_8h.html" title="modules/perception\l/fusion/base/sensor.h" alt="" coords="1563,243,1709,284"/>
+<area shape="rect" id="node27" href="$d0/d66/sensor__data__manager_8h.html" title="modules/perception\l/fusion/base/sensor\l_data_manager.h" alt="" coords="1705,347,1841,403"/>
+</map>

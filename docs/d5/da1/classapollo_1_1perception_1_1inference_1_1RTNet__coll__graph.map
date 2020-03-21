@@ -1,0 +1,3 @@
+<map id="apollo::perception::inference::RTNet" name="apollo::perception::inference::RTNet">
+<area shape="rect" id="node2" href="$d7/d4d/classapollo_1_1perception_1_1inference_1_1Inference.html" title="{apollo::perception\l::inference::Inference\n|# max_batch_size_\l# gpu_id_\l|+ Infer()\l+ Inference()\l+ ~Inference()\l+ Init()\l+ set_max_batch_size()\l+ set_gpu_id()\l+ get_blob()\l}" alt="" coords="5,5,168,200"/>
+</map>

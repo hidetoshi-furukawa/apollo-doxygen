@@ -1,0 +1,5 @@
+<map id="apollo::perception::lidar::CCRFSequenceTypeFusion" name="apollo::perception::lidar::CCRFSequenceTypeFusion">
+<area shape="rect" id="node2" href="$de/d3d/classapollo_1_1perception_1_1lidar_1_1BaseSequenceTypeFusion.html" title="{apollo::perception\l::lidar::BaseSequenceTypeFusion\n||+ Init()\l+ TypeFusion()\l+ Name()\l}" alt="" coords="5,191,224,312"/>
+<area shape="rect" id="node3" href="$d4/d7e/classapollo_1_1perception_1_1lidar_1_1CCRFOneShotTypeFusion.html" title="{apollo::perception\l::lidar::CCRFOneShotTypeFusion\n|# smooth_matrices_\l# confidence_smooth_matrix_\l|+ Init()\l+ TypeFusion()\l+ Name()\l+ FuseOneShotTypeProbs()\l}" alt="" coords="248,176,467,327"/>
+<area shape="rect" id="node4" href="$de/def/classapollo_1_1perception_1_1lidar_1_1BaseOneShotTypeFusion.html" title="{apollo::perception\l::lidar::BaseOneShotTypeFusion\n||+ Init()\l+ TypeFusion()\l+ Name()\l}" alt="" coords="252,5,463,127"/>
+</map>

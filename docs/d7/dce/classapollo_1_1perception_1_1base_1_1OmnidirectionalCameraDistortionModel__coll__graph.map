@@ -1,0 +1,4 @@
+<map id="apollo::perception::base::OmnidirectionalCameraDistortionModel" name="apollo::perception::base::OmnidirectionalCameraDistortionModel">
+<area shape="rect" id="node2" href="$d3/d66/classapollo_1_1perception_1_1base_1_1BaseCameraDistortionModel.html" title="{apollo::perception\l::base::BaseCameraDistortion\lModel\n|# width_\l# height_\l|+ BaseCameraDistortionModel()\l+ ~BaseCameraDistortionModel()\l+ Project()\l+ get_camera_model()\l+ name()\l+ set_params()\l+ get_height()\l+ get_width()\l}" alt="" coords="5,5,223,229"/>
+<area shape="rect" id="node3" href="$d1/d45/classapollo_1_1perception_1_1base_1_1Polynomial.html" title="{apollo::perception\l::base::Polynomial\n||+ Polynomial()\l+ ~Polynomial()\l+ operator[]()\l+ operator()()\l+ getCoeff()\l}" alt="" coords="247,42,378,193"/>
+</map>

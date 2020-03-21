@@ -1,0 +1,6 @@
+<map id="modules/perception/lidar/common/lidar_error_code.h" name="modules/perception/lidar/common/lidar_error_code.h">
+<area shape="rect" id="node2" href="$d3/d4d/lidar__obstacle__segmentation_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_segmentation.h" alt="" coords="51,109,209,165"/>
+<area shape="rect" id="node4" href="$d0/dc0/lidar__obstacle__tracking_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_tracking.h" alt="" coords="261,109,420,165"/>
+<area shape="rect" id="node3" href="$d0/d3d/segmentation__component_8h.html" title="modules/perception\l/onboard/component/segmentation\l_component.h" alt="" coords="5,213,228,269"/>
+<area shape="rect" id="node5" href="$d1/ddb/recognition__component_8h.html" title="modules/perception\l/onboard/component/recognition\l_component.h" alt="" coords="252,213,459,269"/>
+</map>

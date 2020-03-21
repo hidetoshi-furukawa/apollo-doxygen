@@ -1,0 +1,12 @@
+<map id="modules/perception/fusion/base/sensor_object.h" name="modules/perception/fusion/base/sensor_object.h">
+<area shape="rect" id="node6" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="836,117,971,158"/>
+<area shape="rect" id="node23" href="$d2/df0/sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1393,213,1537,255"/>
+<area shape="rect" id="node24" href="$d4/df3/base__forward__declaration_8h.html" title="modules/perception\l/fusion/base/base_forward\l_declaration.h" alt="" coords="5,109,180,165"/>
+<area shape="rect" id="node9" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="750,213,929,255"/>
+<area shape="rect" id="node17" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="965,303,1108,344"/>
+<area shape="rect" id="node19" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="648,303,783,344"/>
+<area shape="rect" id="node22" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1004,213,1155,255"/>
+<area shape="rect" id="node10" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="807,303,941,344"/>
+<area shape="rect" id="node13" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1163,392,1335,433"/>
+<area shape="rect" id="node15" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="760,392,895,433"/>
+</map>

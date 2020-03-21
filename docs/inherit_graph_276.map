@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$df/d14/classapollo_1_1perception_1_1inference_1_1ArgMax1Plugin.html" title="apollo::perception\l::inference::ArgMax1Plugin" alt="" coords="116,5,295,47"/>
+<area shape="rect" id="node3" href="$d1/d74/classapollo_1_1perception_1_1inference_1_1ReLUPlugin.html" title="apollo::perception\l::inference::ReLUPlugin" alt="" coords="125,71,286,112"/>
+<area shape="rect" id="node4" href="$dc/d30/classapollo_1_1perception_1_1inference_1_1SLICEPlugin.html" title="apollo::perception\l::inference::SLICEPlugin" alt="" coords="122,136,289,177"/>
+<area shape="rect" id="node5" href="$d5/dae/classapollo_1_1perception_1_1inference_1_1SoftmaxPlugin.html" title="apollo::perception\l::inference::SoftmaxPlugin" alt="" coords="117,201,293,243"/>
+</map>

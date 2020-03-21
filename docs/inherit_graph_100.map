@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d66/classapollo_1_1perception_1_1camera_1_1BaseObstacleTransformer.html" title="apollo::perception\l::camera::BaseObstacleTransformer" alt="" coords="5,43,239,84"/>
+<area shape="rect" id="node2" href="$d9/d9f/classapollo_1_1perception_1_1camera_1_1DummyObstacleTransformer.html" title="apollo::perception\l::camera::DummyObstacleTransformer" alt="" coords="287,5,536,47"/>
+<area shape="rect" id="node3" href="$dc/d47/classapollo_1_1perception_1_1camera_1_1MultiCueObstacleTransformer.html" title="apollo::perception\l::camera::MultiCueObstacle\lTransformer" alt="" coords="319,71,504,127"/>
+</map>

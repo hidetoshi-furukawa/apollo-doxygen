@@ -1,0 +1,25 @@
+<map id="modules/perception/onboard/component/lane_detection_component.h" name="modules/perception/onboard/component/lane_detection_component.h">
+<area shape="rect" id="node21" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="2529,339,2663,381"/>
+<area shape="rect" id="node24" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="2725,547,2867,589"/>
+<area shape="rect" id="node26" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="4442,644,4577,685"/>
+<area shape="rect" id="node29" href="$d2/d1d/lane__camera__perception_8h.html" title="modules/perception\l/camera/app/lane_camera\l_perception.h" alt="" coords="1099,332,1271,388"/>
+<area shape="rect" id="node37" href="$dd/dc0/base__camera__perception_8h.html" title="modules/perception\l/camera/lib/interface\l/base_camera_perception.h" alt="" coords="1354,436,1537,492"/>
+<area shape="rect" id="node41" href="$d2/ded/camera_2common_2util_8h.html" title="modules/perception\l/camera/common/util.h" alt="" coords="2937,228,3092,269"/>
+<area shape="rect" id="node43" href="$d9/dcf/motion__service_8h.html" title="modules/perception\l/camera/lib/motion_service\l/motion_service.h" alt="" coords="4059,221,4237,277"/>
+<area shape="rect" id="node45" href="$d7/db2/visualizer_8h.html" title="modules/perception\l/camera/tools/offline\l/visualizer.h" alt="" coords="3097,109,3237,165"/>
+<area shape="rect" id="node46" href="$df/d0d/camera__perception__viz__message_8h.html" title="modules/perception\l/onboard/component/camera\l_perception_viz_message.h" alt="" coords="2537,221,2724,277"/>
+<area shape="rect" id="node47" href="$d5/de3/inner__component__messages_8h.html" title="modules/perception\l/onboard/inner_component\l_messages/inner_component\l_messages.h" alt="" coords="1816,213,2008,284"/>
+<area shape="rect" id="node49" href="$de/df0/transform__wrapper_8h.html" title="modules/perception\l/onboard/transform_wrapper\l/transform_wrapper.h" alt="" coords="3655,332,3839,388"/>
+<area shape="rect" id="node23" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="2499,443,2677,485"/>
+<area shape="rect" id="node25" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="4270,547,4405,589"/>
+<area shape="rect" id="node28" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="2171,443,2322,485"/>
+<area shape="rect" id="node32" href="$d7/d17/camera__frame_8h.html" title="modules/perception\l/camera/common/camera\l_frame.h" alt="" coords="1248,540,1419,596"/>
+<area shape="rect" id="node33" href="$d7/d2f/object__template__manager_8h.html" title="modules/perception\l/camera/common/object\l_template_manager.h" alt="" coords="2904,436,3067,492"/>
+<area shape="rect" id="node34" href="$d5/d5e/base__calibration__service_8h.html" title="modules/perception\l/camera/lib/interface\l/base_calibration_service.h" alt="" coords="1561,436,1741,492"/>
+<area shape="rect" id="node35" href="$d3/d34/camera_2lib_2interface_2base__init__options_8h.html" title="modules/perception\l/camera/lib/interface\l/base_init_options.h" alt="" coords="1083,540,1223,596"/>
+<area shape="rect" id="node36" href="$d5/d26/base__calibrator_8h.html" title="modules/perception\l/camera/lib/interface\l/base_calibrator.h" alt="" coords="507,436,647,492"/>
+<area shape="rect" id="node38" href="$d9/df5/base__feature__extractor_8h.html" title="modules/perception\l/camera/lib/interface\l/base_feature_extractor.h" alt="" coords="847,436,1017,492"/>
+<area shape="rect" id="node39" href="$d8/d9a/base__lane__detector_8h.html" title="modules/perception\l/camera/lib/interface\l/base_lane_detector.h" alt="" coords="671,436,822,492"/>
+<area shape="rect" id="node40" href="$da/df4/base__lane__postprocessor_8h.html" title="modules/perception\l/camera/lib/interface\l/base_lane_postprocessor.h" alt="" coords="1093,436,1278,492"/>
+<area shape="rect" id="node42" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="3193,443,3327,485"/>
+</map>

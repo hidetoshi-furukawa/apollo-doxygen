@@ -1,0 +1,12 @@
+<map id="modules/perception/camera/app/cipv_camera.h" name="modules/perception/camera/app/cipv_camera.h">
+<area shape="rect" id="node27" href="$d1/d35/lane__struct_8h.html" title="modules/perception\l/base/lane_struct.h" alt="" coords="1265,288,1399,329"/>
+<area shape="rect" id="node30" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="611,102,746,143"/>
+<area shape="rect" id="node41" href="$d1/dac/lane__object_8h.html" title="modules/perception\l/camera/common/lane\l_object.h" alt="" coords="1577,95,1727,151"/>
+<area shape="rect" id="node28" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="851,377,986,419"/>
+<area shape="rect" id="node33" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="684,199,863,240"/>
+<area shape="rect" id="node38" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="334,288,477,329"/>
+<area shape="rect" id="node39" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="1003,288,1138,329"/>
+<area shape="rect" id="node40" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="509,199,659,240"/>
+<area shape="rect" id="node34" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="603,288,738,329"/>
+<area shape="rect" id="node37" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="655,377,827,419"/>
+</map>

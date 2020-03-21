@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d1c/classapollo_1_1perception_1_1camera_1_1BaseCameraPerception.html" title="apollo::perception\l::camera::BaseCameraPerception" alt="" coords="5,71,224,112"/>
+<area shape="rect" id="node2" href="$de/d5f/classapollo_1_1perception_1_1camera_1_1LaneCameraPerception.html" title="apollo::perception\l::camera::LaneCameraPerception" alt="" coords="284,5,501,47"/>
+<area shape="rect" id="node3" href="$dc/db4/classapollo_1_1perception_1_1camera_1_1ObstacleCameraPerception.html" title="apollo::perception\l::camera::ObstacleCameraPerception" alt="" coords="272,71,513,112"/>
+<area shape="rect" id="node4" href="$d9/de5/classapollo_1_1perception_1_1camera_1_1TrafficLightCameraPerception.html" title="apollo::perception\l::camera::TrafficLightCamera\lPerception" alt="" coords="297,137,489,193"/>
+</map>

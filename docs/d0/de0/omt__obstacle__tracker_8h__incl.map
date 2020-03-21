@@ -1,0 +1,36 @@
+<map id="modules/perception/camera/lib/obstacle/tracker/omt/omt_obstacle_tracker.h" name="modules/perception/camera/lib/obstacle/tracker/omt/omt_obstacle_tracker.h">
+<area shape="rect" id="node5" href="$d7/d2f/object__template__manager_8h.html" title="modules/perception\l/camera/common/object\l_template_manager.h" alt="" coords="3429,971,3592,1027"/>
+<area shape="rect" id="node14" href="$d8/d28/base__obstacle__tracker_8h.html" title="modules/perception\l/camera/lib/interface\l/base_obstacle_tracker.h" alt="" coords="1495,451,1663,507"/>
+<area shape="rect" id="node37" href="$d8/dfc/similar_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/common/similar.h" alt="" coords="1879,243,2052,299"/>
+<area shape="rect" id="node38" href="$d5/dab/frame__list_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/frame_list.h" alt="" coords="2621,451,2785,507"/>
+<area shape="rect" id="node43" href="$df/d0c/obstacle__reference_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/obstacle\l_reference.h" alt="" coords="3181,124,3326,195"/>
+<area shape="rect" id="node48" href="$d1/d4e/target_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/target.h" alt="" coords="2927,243,3067,299"/>
+<area shape="rect" id="node10" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1935,1089,2078,1131"/>
+<area shape="rect" id="node12" href="$d0/df8/mutex_8h.html" title="modules/perception\l/lib/thread/mutex.h" alt="" coords="3911,1089,4046,1131"/>
+<area shape="rect" id="node15" href="$d7/d17/camera__frame_8h.html" title="modules/perception\l/camera/common/camera\l_frame.h" alt="" coords="1624,555,1795,611"/>
+<area shape="rect" id="node35" href="$d3/d34/camera_2lib_2interface_2base__init__options_8h.html" title="modules/perception\l/camera/lib/interface\l/base_init_options.h" alt="" coords="1509,748,1649,804"/>
+<area shape="rect" id="node36" href="$da/df0/registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="2810,1089,2977,1131"/>
+<area shape="rect" id="node16" href="$d1/dab/hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="398,978,546,1019"/>
+<area shape="rect" id="node19" href="$d1/d35/lane__struct_8h.html" title="modules/perception\l/base/lane_struct.h" alt="" coords="1261,1089,1395,1131"/>
+<area shape="rect" id="node20" href="$db/d2b/object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="846,659,1021,700"/>
+<area shape="rect" id="node29" href="$da/dca/traffic__light_8h.html" title="modules/perception\l/base/traffic_light.h" alt="" coords="1254,978,1389,1019"/>
+<area shape="rect" id="node30" href="$dc/df0/data__provider_8h.html" title="modules/perception\l/camera/common/data\l_provider.h" alt="" coords="1633,859,1785,915"/>
+<area shape="rect" id="node17" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="499,1089,634,1131"/>
+<area shape="rect" id="node18" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1102,1201,1237,1242"/>
+<area shape="rect" id="node21" href="$db/d41/concurrent__object__pool_8h.html" title="modules/perception\l/base/concurrent_object\l_pool.h" alt="" coords="347,1193,509,1249"/>
+<area shape="rect" id="node22" href="$de/d4c/base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="971,755,1106,797"/>
+<area shape="rect" id="node23" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="971,867,1106,908"/>
+<area shape="rect" id="node26" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="949,978,1128,1019"/>
+<area shape="rect" id="node28" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="723,978,874,1019"/>
+<area shape="rect" id="node27" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1102,1089,1237,1131"/>
+<area shape="rect" id="node32" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="2255,1089,2390,1131"/>
+<area shape="rect" id="node33" href="$d8/d94/base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="1725,1089,1859,1131"/>
+<area shape="rect" id="node34" href="$db/d48/undistortion__handler_8h.html" title="modules/perception\l/camera/common/undistortion\l_handler.h" alt="" coords="1911,971,2105,1027"/>
+<area shape="rect" id="node39" href="$d6/d68/cuda__util_8h.html" title="modules/perception\l/inference/utils/cuda\l_util.h" alt="" coords="2687,555,2825,611"/>
+<area shape="rect" id="node41" href="$d3/d61/inference_2utils_2util_8h.html" title="modules/perception\l/inference/utils/util.h" alt="" coords="2484,978,2623,1019"/>
+<area shape="rect" id="node44" href="$df/d09/camera__ground__plane_8h.html" title="modules/perception\l/camera/common/camera\l_ground_plane.h" alt="" coords="4223,1082,4393,1138"/>
+<area shape="rect" id="node45" href="$da/d57/i__blas_8h.html" title="modules/perception\l/common/i_lib/core/i\l_blas.h" alt="" coords="4273,1193,4412,1249"/>
+<area shape="rect" id="node46" href="$da/d11/i__line_8h.html" title="modules/perception\l/common/i_lib/geometry\l/i_line.h" alt="" coords="4437,1193,4598,1249"/>
+<area shape="rect" id="node49" href="$d9/df6/camera_2lib_2obstacle_2tracker_2common_2kalman__filter_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/common/kalman\l_filter.h" alt="" coords="3255,852,3422,923"/>
+<area shape="rect" id="node50" href="$d8/d80/track__object_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/track_object.h" alt="" coords="2613,347,2792,403"/>
+</map>

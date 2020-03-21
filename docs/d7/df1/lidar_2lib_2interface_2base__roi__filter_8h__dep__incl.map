@@ -1,0 +1,7 @@
+<map id="modules/perception/lidar/lib/interface/base_roi_filter.h" name="modules/perception/lidar/lib/interface/base_roi_filter.h">
+<area shape="rect" id="node2" href="$d0/d12/dummy__roi__filter_8h.html" title="modules/perception\l/lidar/lib/dummy/dummy\l_roi_filter.h" alt="" coords="5,117,167,173"/>
+<area shape="rect" id="node3" href="$dc/d43/hdmap__roi__filter_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/hdmap\l_roi_filter.h" alt="" coords="191,109,352,180"/>
+<area shape="rect" id="node4" href="$d1/d06/roi__service__filter_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/roi_service_filter/roi\l_service_filter.h" alt="" coords="377,109,515,180"/>
+<area shape="rect" id="node5" href="$d8/db2/cnn__segmentation_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/cnn_segmentation.h" alt="" coords="539,117,729,173"/>
+<area shape="rect" id="node6" href="$d0/dea/ncut__segmentation_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/ncut/ncut_segmentation.h" alt="" coords="753,117,929,173"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::perception::benchmark::Frame" name="apollo::perception::benchmark::Frame">
+<area shape="rect" id="node3" href="$d7/d4f/classapollo_1_1perception_1_1benchmark_1_1FrameStatistics.html" title="{apollo::perception\l::benchmark::FrameStatistics\n||+ find_association()\l+ cal_meta_statistics()\l+ get_meta_statistics()\l+ jaccard_index_percentile()\l+ set_jaccard_index_threshold()\l+ set_jaccard_index_percentile()\l+ get_jaccard_index_percentile()\l+ set_roi_is_main_lanes()\l}" alt="" coords="5,887,216,1081"/>
+<area shape="rect" id="node2" href="$d6/da5/structapollo_1_1perception_1_1benchmark_1_1SensorObjects.html" title="{apollo::perception\l::benchmark::SensorObjects\n|+ type\l+ name\l+ timestamp\l+ seq_num\l+ objects\l+ objects_box_vertices\l+ gt_objects\l+ gt_objects_box_vertices\l+ sensor2world_pose\l|+ SensorObjects()\l+ to_string()\l}" alt="" coords="17,5,205,229"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="modules/perception/onboard/component/camera_perception_viz_message.h" name="modules/perception/onboard/component/camera_perception_viz_message.h">
+<area shape="rect" id="node7" href="$d8/d3c/blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="536,288,671,329"/>
+<area shape="rect" id="node17" href="$d1/d35/lane__struct_8h.html" title="modules/perception\l/base/lane_struct.h" alt="" coords="799,288,933,329"/>
+<area shape="rect" id="node21" href="$d4/de2/base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1771,109,1905,151"/>
+<area shape="rect" id="node29" href="$df/ddf/object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="2109,288,2252,329"/>
+<area shape="rect" id="node13" href="$df/d86/syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="507,377,647,419"/>
+<area shape="rect" id="node14" href="$d9/d4c/base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="456,467,591,508"/>
+<area shape="rect" id="node18" href="$d2/d91/point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1027,377,1161,419"/>
+<area shape="rect" id="node24" href="$d7/d5d/base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1597,199,1775,240"/>
+<area shape="rect" id="node31" href="$d1/d8b/point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="1340,288,1475,329"/>
+<area shape="rect" id="node34" href="$da/da8/vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1901,199,2052,240"/>
+<area shape="rect" id="node25" href="$dc/d19/box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1525,288,1660,329"/>
+<area shape="rect" id="node28" href="$d2/d86/comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1488,377,1660,419"/>
+</map>

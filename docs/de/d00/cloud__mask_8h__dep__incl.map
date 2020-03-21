@@ -1,0 +1,9 @@
+<map id="modules/perception/lidar/common/cloud_mask.h" name="modules/perception/lidar/common/cloud_mask.h">
+<area shape="rect" id="node2" href="$d9/d33/spp__engine_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_engine.h" alt="" coords="44,465,207,536"/>
+<area shape="rect" id="node4" href="$d9/d89/spp__cluster_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_cluster.h" alt="" coords="53,109,216,180"/>
+<area shape="rect" id="node3" href="$d8/db2/cnn__segmentation_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/cnn_segmentation.h" alt="" coords="31,584,220,640"/>
+<area shape="rect" id="node5" href="$db/d55/spp__cluster__list_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_cluster_list.h" alt="" coords="104,347,267,417"/>
+<area shape="rect" id="node6" href="$d8/d36/spp__label__image_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_label_image.h" alt="" coords="163,228,325,299"/>
+<area shape="rect" id="node8" href="$d1/d7d/spp__pool__types_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_pool_types.h" alt="" coords="349,228,512,299"/>
+<area shape="rect" id="node7" href="$d9/d2e/spp__seg__cc__2d_8h.html" title="modules/perception\l/lidar/lib/segmentation\l/cnnseg/spp_engine/spp\l_seg_cc_2d.h" alt="" coords="291,347,453,417"/>
+</map>

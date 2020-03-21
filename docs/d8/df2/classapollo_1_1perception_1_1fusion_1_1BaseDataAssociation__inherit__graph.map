@@ -1,0 +1,4 @@
+<map id="apollo::perception::fusion::BaseDataAssociation" name="apollo::perception::fusion::BaseDataAssociation">
+<area shape="rect" id="node2" href="$d6/dd3/classapollo_1_1perception_1_1fusion_1_1DummyDataAssociation.html" title="{apollo::perception\l::fusion::DummyDataAssociation\n||+ DummyDataAssociation()\l+ ~DummyDataAssociation()\l+ DummyDataAssociation()\l+ operator=()\l+ Init()\l+ Associate()\l+ Name()\l}" alt="" coords="5,241,220,421"/>
+<area shape="rect" id="node3" href="$d8/dc7/classapollo_1_1perception_1_1fusion_1_1HMTrackersObjectsAssociation.html" title="{apollo::perception\l::fusion::HMTrackersObjects\lAssociation\n||+ HMTrackersObjectsAssociation()\l+ ~HMTrackersObjectsAssociation()\l+ HMTrackersObjectsAssociation()\l+ operator=()\l+ Init()\l+ Associate()\l+ Name()\l}" alt="" coords="245,233,479,428"/>
+</map>

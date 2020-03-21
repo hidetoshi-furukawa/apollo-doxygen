@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::BaseCalibrator" name="apollo::perception::camera::BaseCalibrator">
+<area shape="rect" id="node2" href="$d3/da9/classapollo_1_1perception_1_1camera_1_1DummyCalibrator.html" title="{apollo::perception\l::camera::DummyCalibrator\n||+ DummyCalibrator()\l+ ~DummyCalibrator()\l+ Init()\l+ Calibrate()\l+ Name()\l}" alt="" coords="5,263,188,413"/>
+<area shape="rect" id="node3" href="$dd/dc2/classapollo_1_1perception_1_1camera_1_1LaneLineCalibrator.html" title="{apollo::perception\l::camera::LaneLineCalibrator\n||+ LaneLineCalibrator()\l+ ~LaneLineCalibrator()\l+ Init()\l+ Calibrate()\l+ Name()\l+ GetTimeDiff()\l+ GetYawRate()\l+ GetVelocity()\l+ GetVanishingRow()\l}" alt="" coords="213,233,402,443"/>
+</map>

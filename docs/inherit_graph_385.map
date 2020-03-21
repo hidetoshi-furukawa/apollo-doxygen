@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/dc0/classapollo_1_1perception_1_1lidar_1_1SceneServiceContent.html" title="apollo::perception\l::lidar::SceneServiceContent" alt="" coords="5,39,195,80"/>
+<area shape="rect" id="node2" href="$d4/d5b/classapollo_1_1perception_1_1lidar_1_1GroundServiceContent.html" title="apollo::perception\l::lidar::GroundServiceContent" alt="" coords="243,5,437,47"/>
+<area shape="rect" id="node3" href="$d4/d79/classapollo_1_1perception_1_1lidar_1_1ROIServiceContent.html" title="apollo::perception\l::lidar::ROIServiceContent" alt="" coords="252,71,428,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::perception::lidar::MultiHmBipartiteGraphMatcher" name="apollo::perception::lidar::MultiHmBipartiteGraphMatcher">
+<area shape="rect" id="node2" href="$dd/d34/classapollo_1_1perception_1_1lidar_1_1BaseBipartiteGraphMatcher.html" title="{apollo::perception\l::lidar::BaseBipartiteGraph\lMatcher\n|# max_match_distance_\l|+ BaseBipartiteGraphMatcher()\l+ ~BaseBipartiteGraphMatcher()\l+ Match()\l+ Name()\l+ cost_matrix()\l}" alt="" coords="5,285,216,450"/>
+<area shape="rect" id="node3" href="$d4/db1/classapollo_1_1perception_1_1common_1_1SecureMat.html" title="{apollo::perception\l::common::SecureMat\l\&lt; float \&gt;\n||+ SecureMat()\l+ height()\l+ width()\l+ Reserve()\l+ Resize()\l+ ToString()\l+ operator()()\l+ operator()()\l}" alt="" coords="35,5,186,215"/>
+<area shape="rect" id="node4" href="$d0/d8e/classapollo_1_1perception_1_1common_1_1GatedHungarianMatcher.html" title="{apollo::perception\l::common::GatedHungarianMatcher\l\&lt; float \&gt;\n||+ GatedHungarianMatcher()\l+ ~GatedHungarianMatcher()\l+ global_costs()\l+ mutable_global_costs()\l+ Match()\l+ Match()\l}" alt="" coords="240,277,469,457"/>
+</map>

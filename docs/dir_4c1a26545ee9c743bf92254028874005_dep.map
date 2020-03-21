@@ -1,0 +1,9 @@
+<map id="modules/perception/lib" name="modules/perception/lib">
+<area shape="rect" id="node2" href="dir_08038d31e93f07653c3ed74f14f2aca2.html" title="config_manager" alt="" coords="235,63,349,111"/>
+<area shape="rect" id="node4" href="dir_c54dcfc99186c9be85db656b1c181e8e.html" title="thread" alt="" coords="256,159,328,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000113_000115.html" title="1" alt="" coords="296,133,304,147"/>
+<area shape="rect" id="node3" href="dir_e220613ca59a9f932f7e9d9fa87c376d.html" title="registerer" alt="" coords="134,63,210,111"/>
+<area shape="rect" id="node5" href="dir_2eacc897d0a4714dac364516ba736d42.html" title="utils" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="clust2" href="dir_4c1a26545ee9c743bf92254028874005.html" alt="" coords="27,52,456,217"/>
+<area shape="rect" id="clust1" href="dir_eae0ee1c8937adf30ca5fa2a95a97c5d.html" title="perception" alt="" coords="16,16,467,228"/>
+</map>

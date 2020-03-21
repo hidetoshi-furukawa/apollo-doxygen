@@ -1,0 +1,4 @@
+<map id="apollo::perception::fusion::BaseFusionSystem" name="apollo::perception::fusion::BaseFusionSystem">
+<area shape="rect" id="node2" href="$d2/d98/classapollo_1_1perception_1_1fusion_1_1DummyFusionSystem.html" title="{apollo::perception\l::fusion::DummyFusionSystem\n||+ DummyFusionSystem()\l+ ~DummyFusionSystem()\l+ DummyFusionSystem()\l+ operator=()\l+ Init()\l+ Name()\l+ Fuse()\l}" alt="" coords="5,233,208,413"/>
+<area shape="rect" id="node3" href="$dd/dea/classapollo_1_1perception_1_1fusion_1_1ProbabilisticFusion.html" title="{apollo::perception\l::fusion::ProbabilisticFusion\n||+ ProbabilisticFusion()\l+ ~ProbabilisticFusion()\l+ ProbabilisticFusion()\l+ operator=()\l+ Init()\l+ Fuse()\l+ Name()\l}" alt="" coords="233,233,415,413"/>
+</map>

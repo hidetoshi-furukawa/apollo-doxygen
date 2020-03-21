@@ -1,0 +1,5 @@
+<map id="apollo::perception::lidar::BaseSegmentation" name="apollo::perception::lidar::BaseSegmentation">
+<area shape="rect" id="node2" href="$dd/dba/classapollo_1_1perception_1_1lidar_1_1CNNSegmentation.html" title="{apollo::perception\l::lidar::CNNSegmentation\n||+ CNNSegmentation()\l+ ~CNNSegmentation()\l+ Init()\l+ Segment()\l+ Name()\l}" alt="" coords="5,211,177,362"/>
+<area shape="rect" id="node3" href="$dc/d2c/classapollo_1_1perception_1_1lidar_1_1DummySegmentation.html" title="{apollo::perception\l::lidar::DummySegmentation\n||+ DummySegmentation()\l+ ~DummySegmentation()\l+ Init()\l+ Segment()\l+ Name()\l}" alt="" coords="201,211,389,362"/>
+<area shape="rect" id="node4" href="$d5/d09/classapollo_1_1perception_1_1lidar_1_1NCutSegmentation.html" title="{apollo::perception\l::lidar::NCutSegmentation\n||+ NCutSegmentation()\l+ ~NCutSegmentation()\l+ Init()\l+ Segment()\l+ Name()\l+ ByPassROIService()\l}" alt="" coords="414,204,587,369"/>
+</map>

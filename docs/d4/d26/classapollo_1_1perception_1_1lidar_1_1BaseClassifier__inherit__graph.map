@@ -1,0 +1,4 @@
+<map id="apollo::perception::lidar::BaseClassifier" name="apollo::perception::lidar::BaseClassifier">
+<area shape="rect" id="node2" href="$d3/df1/classapollo_1_1perception_1_1lidar_1_1DummyClassifier.html" title="{apollo::perception\l::lidar::DummyClassifier\n||+ DummyClassifier()\l+ ~DummyClassifier()\l+ Init()\l+ Classify()\l+ Name()\l}" alt="" coords="5,204,168,355"/>
+<area shape="rect" id="node3" href="$d1/d9f/classapollo_1_1perception_1_1lidar_1_1FusedClassifier.html" title="{apollo::perception\l::lidar::FusedClassifier\n||+ FusedClassifier()\l+ ~FusedClassifier()\l+ Init()\l+ Classify()\l+ Name()\l}" alt="" coords="193,204,346,355"/>
+</map>
